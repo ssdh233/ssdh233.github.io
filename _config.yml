@@ -1,0 +1,16 @@
+# Site settings
+title: まつまつの部屋
+email: songsongdahu233@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: ""
+url: "https://matsumatsu233.github.io" # the base hostname & protocol for your site
+
+author:
+  name: まつまつ
+  twitter: ssdh233
+  github: matsumatsu233
+  email: songsongdahu233@gmail.com
+  youtube: UCUSkvp3mmI31TClMIflzT0g
+
+# Build settings
+markdown: kramdown
