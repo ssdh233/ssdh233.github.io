@@ -12,5 +12,8 @@ author:
   email: songsongdahu233@gmail.com
   youtube: UCUSkvp3mmI31TClMIflzT0g
 
+disqus:
+  id: matsumatsu
+
 # Build settings
 markdown: kramdown
