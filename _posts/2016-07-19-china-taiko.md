@@ -2,6 +2,7 @@
 layout: post
 title:  "中国の太鼓の達人用語"
 date:   2016-7-19
+category: blog
 tags: [音ゲー,中国,太鼓の達人]
 description: "面白い中国の太鼓の達人用語を紹介しました"
 ---

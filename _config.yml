@@ -15,5 +15,14 @@ author:
 disqus:
   id: matsumatsu
 
+categorys:
+  - title: Blog(Home Page)
+    suburl: ""
+    description: 普通のブログはここに書きます。
+  - title: gitadora-skill-viewer
+    suburl: "gsv"
+    description: ウェブサイトGitadora Skill Viewerに関わる情報はこちらです。
+
+
 # Build settings
 markdown: kramdown
