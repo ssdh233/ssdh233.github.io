@@ -3,12 +3,17 @@ layout: default
 permalink: /gsv/
 ---
 <div class="home">
-  <div class="gsv-title">
-    Gitadora Skill Viewer
+  <div class="category-header">
+    <div class="gsv-title">
+      <a href="/gsv">
+        Gitadora Skill Viewer
+      </a>
+    </div>
+    <div>
+      <a href="http://gitadora-skill-viewer.herokuapp.com">http://gitadora-skill-viewer.herokuapp.com</a>
+    </div>
   </div>
-  <div class="gsv-desc">
-    <a href="http://gitadora-skill-viewer.herokuapp.com">http://gitadora-skill-viewer.herokuapp.com</a>
-  </div>
+  
   <div class="post-list-fixed">
     {% for post in site.posts %}
       {% if post.category == "gsv" and post.fixed == "true" %}

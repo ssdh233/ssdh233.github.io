@@ -232,6 +232,8 @@
       font-size: 18px;
     }
   }
+
+
 }
 
 hr {
@@ -316,10 +318,18 @@ hr {
   margin-bottom: 10px;
 }
 
+.category-header {
+  padding-bottom: 50px;
+  padding-left: 5px;
+}
+
 /*--------------
   gsv
   -------------- */
 .gsv-title {
+  a {  
+    color: #000;
+  }
   font-size: 200%;
   font-family: Andada;
   font-weight: bold;

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_gsv
 title:  "User Voice"
 date:   2016-01-01
 category: gsv
