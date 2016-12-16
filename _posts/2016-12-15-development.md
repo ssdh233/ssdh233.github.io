@@ -11,6 +11,7 @@ fixed: "true"
 * 【低】code refactoring
 
 ### アプデ履歴
+
 #### Ver 1.1.0
 * ホームページを中国語化してFacebook Groupで宣伝しました
 * 新しいスキルカラー、<font color="orange">橙色</font>に対応しました
