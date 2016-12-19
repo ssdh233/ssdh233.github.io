@@ -23,16 +23,18 @@ layout: default
 
             <div class="post-meta">
               <span class="post-meta-date">{{ post.date | date: "%Y.%m.%d" }}</span>
+              <a class="post-meta-comment" href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a>
               <span>
                 {% for tag in post.tags %}
                   <a href="tags#{{ tag }}" class="tags">{{ tag }}</a>
                 {% endfor %}
               </span>
             </div>
-
           </a>
         </div>
       {% endif %}
     {% endfor %}
   </div>
 </div>
+
+<script id="dsq-count-scr" src="//matsumatsu.disqus.com/count.js" async></script>
