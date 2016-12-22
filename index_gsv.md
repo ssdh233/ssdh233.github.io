@@ -37,7 +37,7 @@ permalink: /gsv/
               <a class="post-meta-comment" href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a>
               <span>
                 {% for tag in post.tags %}
-                  <a href="tags#{{ tag }}" class="tags">{{ tag }}</a>
+                  <a href="/tags#{{ tag }}" class="tags">{{ tag }}</a>
                 {% endfor %}
               </span>
             </div>
@@ -69,7 +69,7 @@ permalink: /gsv/
               <a class="post-meta-comment" href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a>
               <span>
                 {% for tag in post.tags %}
-                  <a href="tags#{{ tag }}" class="tags">{{ tag }}</a>
+                  <a href="/tags#{{ tag }}" class="tags">{{ tag }}</a>
                 {% endfor %}
               </span>
             </div>
