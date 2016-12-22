@@ -4,7 +4,7 @@ title: Link
 permalink: /link/
 ---
 
-### Friendly Links
+### Chinese Blogs
 * [Skyphobia](https://blog.asaki.me) : 白熱大先生 - ギタドラプレイヤー、プログラマー
 
 ### Special Thanks
