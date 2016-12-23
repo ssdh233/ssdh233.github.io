@@ -4,7 +4,7 @@ title:  "User Voice"
 date:   2016-01-01
 category: gsv
 tags: [GSV]
-description: "不具合報告、ご意見などがありましたら是非ここにコメンドして頂きたいのです"
+description: "不具合報告、ご意見などがありましたら是非ここにコメンドして頂きたいです"
 fixed: "true"
 ---
 #### 現在の不具合状況
