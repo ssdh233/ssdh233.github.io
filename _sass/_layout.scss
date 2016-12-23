@@ -7,6 +7,11 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+
+  &-hr {
+    bottom: 0;
+    width: 100%;
+  }
 }
 
 .site-title {
@@ -238,10 +243,6 @@
   }
 
 
-}
-
-hr {
-  margin: auto;
 }
 
 /*--------------
