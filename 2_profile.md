@@ -13,13 +13,13 @@ permalink: /profile/
   * おに全良1譜面
 * **ギタドラ**
   * Tri-Boost
-    * ドラム 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/d) <br>
-    * ギター 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/g) <br>
+    * ドラム 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/d) 
+    * ギター 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/g) 
   * Tri-Boost Re:EVOLVE
     * とりあえずドラム頑張りたい
 * **シューティング**
-  * 基本的にヘタレなクリアラーですが、最近デススマイルズのスコアを頑張っています。<br>
-    * 2016.11.23 ウィンディア Ex-off 3.20億<br>
+  * 基本的にヘタレなクリアラーですが、最近デススマイルズのスコアを頑張っています。
+    * 2016.11.24 ウィンディア Ex-off [3.20億](https://twitter.com/ssdh233/status/801364272563572737)
   * **クリアリスト**
     * 怒首領蜂 大復活 裏二周目 B-S
     * 虫姫さま ふたり マニアック レコ・ノーマル
