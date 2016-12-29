@@ -14,6 +14,9 @@ fixed: "true"
 
 ### アプデ履歴
 
+#### [Ver 1.1.2](/gsv/2016/12/29/version-1-1-2.html)
+* Bug fixed: ホームページでのGITADORA tri-boost用のブックマークレットを修正しました
+
 #### [Ver 1.1.1](/gsv/2016/12/23/version-1-1-1.html)
 * Tri-Boost Re:EVOLVEのカードネームが正しく取得するようになりました
 * 達成率が100.00%の時、ランクが正しく表示（SS）するになりました
