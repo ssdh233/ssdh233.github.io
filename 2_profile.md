@@ -16,8 +16,8 @@ permalink: /profile/
     * ドラム 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/d) 
     * ギター 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/g) 
   * Tri-Boost Re:EVOLVE
-    * とりあえずドラム頑張りたい
-    * ドラム [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tbre/1/d)
+    * ドラム 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tbre/1/d)
+    * ギター 指痛くなりやすい体質なのでしばらく休止
 * **シューティング**
   * 基本的にヘタレなクリアラーなんですが、最近デススマイルズのスコアを頑張っています。
     * 2016.11.24 ウィンディア Ex-off [3.20億](https://twitter.com/ssdh233/status/801364272563572737)
