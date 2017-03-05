@@ -10,15 +10,19 @@ fixed: "true"
 
 ### 今後の対応予定
 * スキル比較機能
-* react.jsを使う
+* 美的なセンスがないですけど、サイトをもっとキレイにしたいと思っています
 
 <br/>
-### アプデ履歴
+### アップデート履歴
+
+#### Ver 1.2.1 [20170306]
+* ギターの難易度表記の[不具合](http://disq.us/p/1gbh2hm)を修正しました
+* <font color="#fdfdfd">tried to render index page by reactjs</font>
 
 #### Ver 1.2.0 [20170121]
 * ユーザーリストを作りました（テーブルのヘッダーをクリックするとソートできます）
 * Bug fixed: スナップショット機能の不具合を修正しました
-* code refactoring
+* <font color="#fdfdfd">code refactoring</font>
 
 #### Ver 1.1.2 [20161229]
 * Bug fixed: ホームページでのGITADORA tri-boost用のブックマークレットを修正しました
