@@ -11,7 +11,7 @@ permalink: /profile/
   * ポプともID：632820141042
 * **<font color="red">太鼓の達人</font>**
   * 黄緑九-紫十-白十-赤十
-  * おに全良1譜面
+  * おに全良2譜面
 * **ギタドラ**
   * Tri-Boost
     * ドラム 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/d) 
