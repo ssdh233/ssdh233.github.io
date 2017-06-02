@@ -1,5 +1,7 @@
 .main {
   text-align: center;
+  width: 650px;
+  margin: 0 auto;
 }
 
 .title {
@@ -9,15 +11,10 @@
 
 .input-area {
   margin-top: 50px;
-  margin-bottom: 30px;
-  margin-left: 30%;
-  width: 40%;
 }
 
 .option-area {
   text-align: left;
-  margin-left: 30%;
-  margin-right: 30%;
 }
 
 .option {
@@ -42,25 +39,13 @@
 
 .show-area {
   margin-top: 30px;
-  margin-left: 30%;
-  margin-right: 30%;
   min-height: 70px;
 }
 
-.output-area {
-  margin-left: 30%;
-  margin-right: 30%;
-  width: 40%;
-}
-
 .examples-area {
-  margin-left: 30%;
-  margin-right: 30%;
   text-align: left;
 }
 
 .thanks-area {
-  margin-left: 30%;
-  margin-right: 30%;
   text-align: left;
 }

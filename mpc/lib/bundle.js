@@ -175,6 +175,7 @@ var MahjongTextParser = function () {
       var outputSet = [];
       while (pos < inputText.length) {
         var char = inputText.charAt(pos);
+        /*
         console.log("status", status);
         console.log("pos", pos);
         console.log("char", char);
@@ -182,6 +183,7 @@ var MahjongTextParser = function () {
         console.log("prePaiStack", JSON.stringify(prePaiStack));
         console.log("outputSet", outputSet);
         console.log("-------------");
+        */
         switch (status) {
           case 0:
             if (this.isNumber(char)) {
@@ -454,6 +456,10 @@ $(document).ready(function (e) {
     }
   });
 
+  $("#outputTextarea").on("click", function () {
+    $(this)[0].select();
+  });
+
   readLocalOptions();
   $("#convert").click();
 });
@@ -461,6 +467,15 @@ $(document).ready(function (e) {
 function setShowArea(innerHtml, paiCount) {
   $("#show-area").html(innerHtml + (paiCount ? "<div>(" + paiCount + "枚)</div>" : ""));
   $("#outputTextarea").val(innerHtml);
+
+  if (innerHtml && isMjDragon()) {
+    $("#warning-area").css("display", "block");
+    $("#warning-area").html("麻雀の雀龍.com様が提供した牌画を使用する際、下記のメッセージをサイトに載せてください。利用初めの一度だけでも結構です。<a href='http://www.mj-dragon.com/yaku/haiga.html' target='_blank'>麻雀の雀龍.com 麻雀牌画の利用規約</a><br/><br/>");
+    $("#warning-area").append(document.createTextNode("※ 画像は<a href='http://www.mj-dragon.com/rule/''>麻雀ルール</a>解説でおなじみの「麻雀の雀龍.com」の無料麻雀牌画を利用しています。"));
+  } else {
+    $("#warning-area").css("display", "none");
+    $("#warning-area").html("");
+  }
 }
 
 function saveLocalOptions(inputText, options) {
@@ -475,6 +490,10 @@ function readLocalOptions() {
   var options = JSON.parse(optionsStr);
   $("input[name=size][value=" + options.checkedSizeOption + "]").prop('checked', true);
   $("#customSize>input").val(options.customSize);
+}
+
+function isMjDragon() {
+  return true;
 }
 
 },{"./MahjongPaiToHtmlConvertor.js":1,"./MahjongTextParser.js":2,"./constants.js":3}]},{},[4]);
