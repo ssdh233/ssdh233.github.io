@@ -1,0 +1,66 @@
+.main {
+  text-align: center;
+}
+
+.title {
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.input-area {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-left: 30%;
+  width: 40%;
+}
+
+.option-area {
+  text-align: left;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.option {
+  display: table-row;
+  height: 40px;
+}
+
+.option-label {
+  white-space: nowrap;
+  display: table-cell;
+  padding-right: 10px;
+}
+
+.option-content {
+  display: table-cell;
+  width: 100%;
+}
+
+.radio {
+  margin-right: 15px;
+}
+
+.show-area {
+  margin-top: 30px;
+  margin-left: 30%;
+  margin-right: 30%;
+  min-height: 70px;
+}
+
+.output-area {
+  margin-left: 30%;
+  margin-right: 30%;
+  width: 40%;
+}
+
+.examples-area {
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: left;
+}
+
+.thanks-area {
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: left;
+}

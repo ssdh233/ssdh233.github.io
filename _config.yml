@@ -15,13 +15,13 @@ author:
 disqus:
   id: matsumatsu
 
-categorys:
-  - title: Blog(Home Page)
-    suburl: ""
-    description: 普通のブログはここに書きます。
-  - title: gitadora-skill-viewer
+projects:
+  - title: Gitadora-Skill-Viewer
     suburl: "gsv"
-    description: ウェブサイトGitadora Skill Viewerに関わる情報はこちらです。
+    description: ギタドラのスキルデータを保存するウェブサイトGitadora Skill Viewer。
+  - title: Mahjong-Pai-Converter
+    suburl: "mpc/index.html"
+    description: 麻雀牌を表示するhtmlを自動的に生成する便利なツールです。
 
 
 # Build settings
