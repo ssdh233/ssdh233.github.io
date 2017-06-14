@@ -11,7 +11,7 @@ permalink: /profile/
   * ポプともID：632820141042
 * **<font color="red">太鼓の達人</font>**
   * 黄緑九-紫十-白十-赤十-黄十
-  * おに全良6譜面
+  * おに全良8譜面
 * **ギタドラ**
   * Tri-Boost
     * ドラム 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/d) 
@@ -28,8 +28,8 @@ permalink: /profile/
     * デススマイルズ LV3縛り EXあり ウィンディア
     * 怒首領蜂 最大往生 A-S（陽蜂なし・オートボムON）
 * **<font color="red">麻雀</font>**
-  * 天鳳五段なう。とりあえず七段まで頑張りたい
-  * 今までの段位遷移：454545
+  * 天鳳六段なう。とりあえず七段まで頑張りたい
+  * 今までの段位遷移：4545456
 * **語学用ゲーム**
   * 軌跡シリーズ 空fc/空sc/空3rd/零/碧/閃/閃II
   * イース セルセタの樹海
@@ -44,4 +44,5 @@ permalink: /profile/
   * 格ゲー
 
 #### **ゲーム以外のこと**
-* <font color="red">最近ウェブアプリを作るという新しい趣味が出来たかも</font>
+* <font color="red">ウェブアプリ作りとか</font>
+* <font color="red">現代麻雀技術論の中国語訳進めてます</font>
