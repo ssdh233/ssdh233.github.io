@@ -1,5 +1,5 @@
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
-"use strict";
+'use strict';
 
 Object.defineProperty(exports, "__esModule", {
   value: true
@@ -7,7 +7,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _constants = require("./constants.js");
+var _constants = require('./constants.js');
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -17,10 +17,11 @@ var MahjongPaiToHtmlConvertor = function () {
   }
 
   _createClass(MahjongPaiToHtmlConvertor, [{
-    key: "convert",
+    key: 'convert',
     value: function convert(outputSet, options) {
       var _this = this;
 
+      var url = options.hostUrl + _constants.STYLES[options.style] + "/";
       var scale = this.getScaleFromOption(options.checkedSizeOption, options.customSize);
       var outputHtml = "";
 
@@ -32,56 +33,56 @@ var MahjongPaiToHtmlConvertor = function () {
         } else if (_this.isKan(pai)) {
           pai = pai[0].toLowerCase() + pai.substring(1);
           outputHtml += "<div style='display: inline-block; height: " + 60 * scale + "px'>";
-          outputHtml += "<img style='display: block' src='" + options.hostUrl + pai + ".gif' height='" + 30 * scale + "px'>";
-          outputHtml += "<img style='display: block' src='" + options.hostUrl + pai + ".gif' height='" + 30 * scale + "px'>";
+          outputHtml += "<img style='display: block' src='" + url + pai + ".gif' height='" + 30 * scale + "px'>";
+          outputHtml += "<img style='display: block' src='" + url + pai + ".gif' height='" + 30 * scale + "px'>";
           outputHtml += "</div>";
         } else if (_this.isRotation(pai)) {
           if (pai[0] === "b") {
-            outputHtml += "<img src='" + options.hostUrl + "ura.gif' height='" + 40 * scale + "px'>";
+            outputHtml += "<img src='" + url + "ura.gif' height='" + 40 * scale + "px'>";
           } else {
-            outputHtml += "<img src='" + options.hostUrl + pai + ".gif' height='" + 30 * scale + "px'>";
+            outputHtml += "<img src='" + url + pai + ".gif' height='" + 30 * scale + "px'>";
           }
         } else {
-          outputHtml += "<img src='" + options.hostUrl + pai + ".gif' height='" + 40 * scale + "px'>";
+          outputHtml += "<img src='" + url + pai + ".gif' height='" + 40 * scale + "px'>";
         }
       });
 
       return outputHtml;
     }
   }, {
-    key: "isSpace",
+    key: 'isSpace',
     value: function isSpace(pai) {
       return pai === " ";
     }
   }, {
-    key: "isSpilter",
+    key: 'isSpilter',
     value: function isSpilter(pai) {
       return pai === "|";
     }
   }, {
-    key: "isKan",
+    key: 'isKan',
     value: function isKan(pai) {
       return pai[0] === "L" || pai[0] === "R";
     }
   }, {
-    key: "isRotation",
+    key: 'isRotation',
     value: function isRotation(pai) {
       return pai[0] === "l" || pai[0] === "r" || pai[0] === "b";
     }
   }, {
-    key: "getScaleFromOption",
+    key: 'getScaleFromOption',
     value: function getScaleFromOption(checkedSizeOption, customSize) {
       var size = void 0;
       var standardSize = 40;
       switch (checkedSizeOption) {
         case _constants.SIZE.SMALL:
-          size = "25";
+          size = "24";
           break;
         case _constants.SIZE.MIDDLE:
-          size = "40";
+          size = "32";
           break;
         case _constants.SIZE.BIG:
-          size = "60";
+          size = "40";
           break;
         case _constants.SIZE.CUSTOM:
           if (this.isNumber(customSize)) {
@@ -99,7 +100,7 @@ var MahjongPaiToHtmlConvertor = function () {
       return size / standardSize;
     }
   }, {
-    key: "isNumber",
+    key: 'isNumber',
     value: function isNumber(n) {
       return Number(n) == n;
     }
@@ -294,7 +295,7 @@ var MahjongTextParser = function () {
         }
       }
 
-      console.log("outputSet", outputSet);
+      //console.log("outputSet", outputSet);
       // when input text doesn't end with a symbol
       if (prePaiStack.length !== 0) {
         return {
@@ -369,7 +370,8 @@ var SIZE = exports.SIZE = {
   CUSTOM: "4"
 };
 
-var DEFAULT_IMG_URL = exports.DEFAULT_IMG_URL = "https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-dragon/";
+var DEFAULT_IMG_URL = exports.DEFAULT_IMG_URL = "https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/";
+var STYLES = exports.STYLES = ["mj-dragon", "mj-tactics"];
 
 var PARSE_RESULT = exports.PARSE_RESULT = {
   SUCCESS: 0,
@@ -397,11 +399,13 @@ var mahjongPaiToHtmlConvertor = new _MahjongPaiToHtmlConvertor2.default();
 
 $(document).ready(function (e) {
   $("#convert").click(function () {
+    var style = $("input[name=style]:checked").val();
     var checkedSizeOption = $("input[name=size]:checked").val();
     var customSize = $("#customSize>input").val();
     var hostUrl = _constants.DEFAULT_IMG_URL;
 
     var options = {
+      style: style,
       checkedSizeOption: checkedSizeOption,
       customSize: customSize,
       hostUrl: hostUrl
@@ -413,7 +417,7 @@ $(document).ready(function (e) {
 
     if (inputText) {
       var result = mahjongTextParser.parse(inputText);
-      console.log("result", result);
+
       if (result.status === _constants.PARSE_RESULT.INVALID_INPUT) {
         $("#inputErrorLabel").css({ "display": "inline-block" });
         setShowArea("");
@@ -432,6 +436,10 @@ $(document).ready(function (e) {
     if (e.which == 13) {
       $("#convert").click();
     }
+  });
+
+  $('input[type=radio][name=style]').change(function () {
+    $("#convert").click();
   });
 
   $('input[type=radio][name=size]').change(function () {
@@ -488,12 +496,13 @@ function readLocalOptions() {
 
   var optionsStr = localStorage.getItem("options");
   var options = JSON.parse(optionsStr);
+  $("input[name=style][value=" + options.style + "]").prop('checked', true);
   $("input[name=size][value=" + options.checkedSizeOption + "]").prop('checked', true);
   $("#customSize>input").val(options.customSize);
 }
 
 function isMjDragon() {
-  return true;
+  return $("input[name=style][value=0]").is(':checked');
 }
 
 },{"./MahjongPaiToHtmlConvertor.js":1,"./MahjongTextParser.js":2,"./constants.js":3}]},{},[4]);
