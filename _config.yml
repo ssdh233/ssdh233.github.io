@@ -20,7 +20,7 @@ projects:
     suburl: "gsv"
     description: ギタドラのスキルデータを保存するウェブサイトGitadora Skill Viewer。
   - title: Mahjong-Pai-Converter
-    suburl: "mpc/index.html"
+    suburl: "mahjong-pai-converter/"
     description: 麻雀牌を表示するhtmlを自動的に生成する便利なツールです。
 
 
