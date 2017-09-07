@@ -11,15 +11,15 @@ fixed: "true"
 ### 今後の対応予定
 * 特にありません。何かご要望があればコメントしてください
 
-<br/>
+<br />
 
 ### アップデート履歴
 
 [Release note on GitHub](https://github.com/matsumatsu233/gitadora-skill-viewer/releases)
 
-#### Ver 1.3.0 [20170906]
-* ギタドラ matixxに対応しました。
-* ギタドラ Tri-Boostのウェブページがサービス停止したため、ギタドラ Tri-Boostのscriptを削除しました。
+最近の履歴はGitHubに移行しました。
+
+<hr style="margin: 20px 0"/>
 
 #### Ver 1.2.1 [20170306]
 * ギターの難易度表記の[不具合](http://disq.us/p/1gbh2hm)を修正しました
