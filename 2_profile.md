@@ -6,19 +6,21 @@ permalink: /profile/
 * <font color="red">赤いのは現在進行形</font>
 
 #### **ゲームのこと**
-* **ポップン**
-  * 残りアニサイダー村
+* **<font color="red">ポップン</font>**
+  * 残りアニサイダー村顔Q
   * ポプともID：632820141042
-* **<font color="red">太鼓の達人</font>**
-  * 黄緑九-紫十-白十-赤十-黄十
+* **太鼓の達人**
+  * 黄緑九段 -> 紫十段 -> 白十段 -> 赤十段 -> 黄玄人
   * おに全良12譜面（★10 1譜面）
 * **ギタドラ**
-  * Tri-Boost
-    * ドラム 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/d) 
-    * ギター 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/g) 
+  * Matixx
+    * ドラム やる予定があります。
   * Tri-Boost Re:EVOLVE
     * ドラム 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tbre/1/d)
     * ギター 指痛くなりやすい体質なのでしばらく休止
+  * Tri-Boost
+    * ドラム 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/d) 
+    * ギター 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/g) 
 * **<font color="red">djmax repsect</font>**
   * 最近始めました。とりあえず6Bだけ頑張ってます。
 * **<font color="red">ブレイブルー</font>**
@@ -48,7 +50,7 @@ permalink: /profile/
   * World of Warcraft
 
 #### **ゲーム以外のこと**
-* <font color="red">ウェブアプリ作りとか</font>
+* **<font color="red">ウェブアプリ作り</font>**
   * ゲームだけで精一杯でこちらにはあまり力入れてないけど...
 * 現代麻雀技術論の中国語訳
   * 天鳳のモチベ低下により停滞しております。
