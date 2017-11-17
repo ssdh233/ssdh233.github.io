@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Profile
-permalink: /profile/
+title: About me
+permalink: /aboutme/
 ---
-* <font color="red">赤いのは現在進行形</font>
+
+ゲームと語学が好きな中国人です。ソースコードも書いたりしてます。
 
 #### **ゲームのこと**
 * **<font color="red">ポップン</font>**
-  * 残りアニサイダー村顔Q
+  * 残りアニサイダー村カオスQ
   * ポプともID：632820141042
 * **太鼓の達人**
   * 黄緑九段 -> 紫十段 -> 白十段 -> 赤十段 -> 黄玄人

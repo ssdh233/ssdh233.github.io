@@ -4,7 +4,7 @@ title: Link
 permalink: /link/
 ---
 
-### Chinese Blogs
+### Chinese Friends' Blogs
 * [Skyphobia](https://blog.asaki.me) : 白熱大先生 - ギタドラプレイヤー、プログラマー
 * [萝莉御姐互推最高-__-＋](http://djlain.blog.hexun.com/) : djlain - 百合＋音乐=人生
 
