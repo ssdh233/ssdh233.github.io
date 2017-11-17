@@ -19,8 +19,8 @@ projects:
   - title: Gitadora-Skill-Viewer
     suburl: "gsv"
     description: ギタドラのスキルデータを保存するウェブサイトGitadora Skill Viewer。
-  - title: Mahjong-Pai-Converter
-    suburl: "mahjong-pai-converter/"
+  - title: Mahjong-Tiles-Converter
+    suburl: "mtc/"
     description: 麻雀牌を表示するhtmlを自動的に生成する便利なツールです。
 
 

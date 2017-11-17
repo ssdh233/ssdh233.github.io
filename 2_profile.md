@@ -17,7 +17,7 @@ permalink: /profile/
     * ドラム やる予定があります。
   * Tri-Boost Re:EVOLVE
     * ドラム 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tbre/1/d)
-    * ギター 指痛くなりやすい体質なのでしばらく休止
+    * ギター 指痛くなりやすい体質なので諦めた
   * Tri-Boost
     * ドラム 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/d) 
     * ギター 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/g) 
@@ -38,7 +38,7 @@ permalink: /profile/
   * 天鳳六段
   * 今までの段位遷移：4545456
 * **語学用ゲーム**
-  * 軌跡シリーズ 空fc/空sc/空3rd/零/碧/閃/閃II/閃III(進行形)
+  * 軌跡シリーズ 空fc/空sc/空3rd/零/碧/閃/閃II/閃III
   * イース セルセタの樹海/VII(進行形)
   * ファイナルファンタジーX/X-2/XV
   * メモリーズオフ 6 complete/ゆびきりの記憶
@@ -53,4 +53,4 @@ permalink: /profile/
 * **<font color="red">ウェブアプリ作り</font>**
   * ゲームだけで精一杯でこちらにはあまり力入れてないけど...
 * 現代麻雀技術論の中国語訳
-  * 天鳳のモチベ低下により停滞しております。
+  * 天鳳のモチベ低下により停滞しております。 <- 再開未定

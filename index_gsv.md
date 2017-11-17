@@ -10,7 +10,7 @@ permalink: /gsv/
       </a>
     </div>
     <div>
-      <a href="http://gitadora-skill-viewer.herokuapp.com">http://gitadora-skill-viewer.herokuapp.com</a>
+      <a href="http://gsv.fun">http://gsv.fun</a>
     </div>
   </div>
   
