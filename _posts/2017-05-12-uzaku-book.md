@@ -3,7 +3,7 @@ layout: post
 title:  "ウザく本一周"
 date:   2017-05-12
 category: blog
-tags: [天鳳]
+tags: [天鳳,麻雀]
 description: "牌効率UP"
 ---
 
