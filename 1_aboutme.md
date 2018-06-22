@@ -6,7 +6,6 @@ permalink: /aboutme/
 
 ゲームと語学が好きな中国人です。ソースコードも書いたりしてます。
 
-### 音ゲー
 #### <font color="red">ポップン</font>
 * 残りアニサイダーカオスQ
 * ポプともID：632820141042 ライバル登録はお気楽にどうぞ
@@ -25,6 +24,12 @@ permalink: /aboutme/
 * Tri-Boost
   * ドラム 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/d) 
   * ギター 赤ネ [スキル帳](https://gitadora-skill-viewer.herokuapp.com/tb/1/g) 
+  
+#### ぷよぷよテトリス
+* テトリス
+  * レート10000台のTスピン苦手マン
+* ぷよぷよ
+  * 初心者
 #### <font color="red">ブレイブルー</font>
 * BBCF
   * セリカかわいい。誰にも勝てない。
@@ -54,7 +59,6 @@ permalink: /aboutme/
   * 逆転裁判1/6
 #### 語学ゲーム（英語）
   * Life Is Strange <- 日本語バージョンもあるので皆さんもやってみよう！
-  * WOW <- 再開未定
 
 #### ゲーム以外のこと
 * 何もやってない
