@@ -17,10 +17,10 @@ disqus:
 
 projects:
   - title: Gitadora-Skill-Viewer
-    suburl: "gsv"
+    url: "http://gsv.fun"
     description: ギタドラのスキルデータを保存するウェブサイトgsv.fun。
   - title: Mahjong-Tiles-Converter
-    suburl: "mtc/"
+    url: "/mtc/"
     description: 麻雀牌を表示するhtmlを自動的に生成する便利なツールです。
 
 
