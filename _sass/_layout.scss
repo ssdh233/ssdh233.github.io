@@ -347,3 +347,36 @@
     -o-transform: rotate(-45deg);
     transform: rotate(-45deg);
 }
+
+$pagination-color: #868e96;
+$pagination-over-color: #495057;
+
+.pagination {
+  font-weight: 300;
+  padding: 2em 0;
+  width: 100%;
+  display: inline-block;
+
+  > .prev {
+    float: left;
+    width: 50%;
+    a {
+      color: $pagination-color;
+      &:hover, &:focus {
+        color: $pagination-over-color;
+      }
+    }
+  }
+
+  > .next {
+    float: right;
+    text-align: right;
+    width: 50%;
+    a {
+      color: $pagination-color;
+      &:hover, &:focus {
+        color: $pagination-over-color;
+      }
+    }
+  }
+}
