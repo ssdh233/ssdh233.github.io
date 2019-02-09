@@ -1,11 +1,13 @@
 ---
 layout: default
+pagination: 
+  enabled: true
 ---
 
 <div class="home">
 
   <div class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       {% if post.category == "blog" %}
         <div class="post-list-item">
           <a href="{{ post.url | prepend: site.baseurl }}">
@@ -35,6 +37,21 @@ layout: default
       {% endif %}
     {% endfor %}
   </div>
-</div>
 
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <span class="prev">
+        <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="prev">
+          < Previous
+        </a>
+      </span>
+    {% endif %}
+    {% if paginator.next_page %}
+      <span class="next">
+        <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
+          Next >
+        </a>
+      </span>
+    {% endif %}
+  </div>
 <script id="dsq-count-scr" src="//matsumatsu.disqus.com/count.js" async></script>

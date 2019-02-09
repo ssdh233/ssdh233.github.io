@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
@@ -16,6 +17,8 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-paginate-v2 (2.1.0)
+      jekyll (~> 3.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
@@ -41,6 +44,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-paginate-v2
 
 BUNDLED WITH
-   1.13.6
+   1.17.3
