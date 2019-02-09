@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-permalink: /aboutme/
+title: About
+permalink: /about/
 ---
 
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。

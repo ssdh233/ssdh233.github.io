@@ -380,3 +380,20 @@ $pagination-over-color: #495057;
     }
   }
 }
+
+.archive {
+  a {
+    color: $base-color;
+  }
+
+  time {
+    color: $base-lighten-color;
+    font-size: $small-font-size;
+    font-weight: 300;
+    margin-left: 3px;
+  }
+
+  h3 {
+    margin-top: $spacing-unit / 2;
+  }
+}
