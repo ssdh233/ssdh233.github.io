@@ -1,4 +1,4 @@
-const SOURCE = "https://cdn.jsdelivr.net/gh/matsumatsu233/MyNote@master/notes/english-reading.md";
+const SOURCE = "https://cdn.jsdelivr.net/gh/matsumatsu233/MyNote/notes/english-reading.md";
 
 fetch(SOURCE)
   .then(res => res.text())
