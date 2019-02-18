@@ -23,7 +23,7 @@ function htmlToElements(html) {
 
 function extractTags(tagText) {
   const tags = tagText.match(/\[.*?\]/g);
-  return tags && tags.map(text => text.slice(1, -1));
+  return tags && tags.map(text => text.slice(1, -1).toLowerCase());
 }
 
 function getReadingList(nodeList) {
