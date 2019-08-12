@@ -16,6 +16,9 @@ disqus:
   id: matsumatsu
 
 projects:
+  - title: ゲーセンマップ
+    url: "https://geisen-map.herokuapp.com"
+    description: 地図上にゲーセンを表示する便利なサイト。
   - title: Gitadora-Skill-Viewer
     url: "http://gsv.fun"
     description: ギタドラのスキルデータを保存するウェブサイトgsv.fun。
