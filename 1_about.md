@@ -7,10 +7,16 @@ permalink: /about/
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
 #### <font color="red">ポップン</font>
-* 未クリア4 全埋めしたい(・∀・)
-* ポプともID：632820141042 ポプとも登録はお気軽に
+* 未クリア5 全埋めしたい(・∀・)
+* ポプともID：632820141042 登録はお気軽に
 
-#### <font color="red">djmax repsect</font>
+#### <font color="red">WOW</font>
+* Blackrock - Algetest アリーナが好き
+* bfa s3: 2s (lock + hpri) 2400, 3s いろいろ2100
+  * s4 2sも3sも真剣に頑張るつもり
+* raidも頑張ってる　[WCL個人ページ](https://www.warcraftlogs.com/character/id/40977227)
+
+#### djmax repsect
 * 8BのS埋め頑張ってます
 
 #### 太鼓の達人
@@ -18,8 +24,8 @@ permalink: /about/
 * 家庭用もよくやります
 
 #### ギタドラ
-* ドラム 最高銅ネ [スキル帳](http://gsv.fun/exchain/1/d)
-* ギター 最高赤ネ [スキル帳](http://gsv.fun/exchain/1/g)
+* ドラム 銅ネ [スキル帳](http://gsv.fun/nextage/1/d)
+* ギター 最高赤ネ 最近やってない
   
 #### ぷよテト
 * テトリス レート12000台 40ライン1:09
