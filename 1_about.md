@@ -7,14 +7,13 @@ permalink: /about/
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
 #### <font color="red">ポップン</font>
-* 未クリア5 全埋めしたい(・∀・)
+* 未クリア7 全埋めしたい(・∀・)
 * ポプともID：632820141042 登録はお気軽に
 
 #### <font color="red">WOW</font>
-* Blackrock - Algetest アリーナが好き
-* bfa s3: 2s (lock + hpri) 2400, 3s いろいろ2100
-  * s4 2sも3sも真剣に頑張るつもり
-* raidも頑張ってる　[WCL個人ページ](https://www.warcraftlogs.com/character/id/40977227)
+* Blackrock - Algetest (Warlock) アリーナが好き
+* bfa s3: 2s (lock/hpri) 2400, 3s いろいろ 2100
+* bfa s4: 2s いろいろ 2400, 3s Glad x 2 最高2500
 
 #### djmax repsect
 * 8BのS埋め頑張ってます
