@@ -23,7 +23,7 @@ permalink: /about/
 * 家庭用もよくやります
 
 #### ギタドラ
-* ドラム 銅ネ [スキル帳](http://gsv.fun/nextage/1/d)
+* ドラム 銅ネ [スキル帳](http://gsv.fun/nextage/0/d)
 * ギター 最高赤ネ 最近やってない
   
 #### ぷよテト
