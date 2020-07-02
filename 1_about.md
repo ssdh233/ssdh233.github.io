@@ -50,13 +50,13 @@ permalink: /about/
 
 #### 語学ゲーム（日本語）
 * 軌跡シリーズ 空fc/空sc/空3rd/零/碧/閃/閃II/閃III/閃IV
-* イース セルセタの樹海/VIII(進行形)
+* イース セルセタの樹海
 * ファイナルファンタジーX/X-2/XV
 * メモリーズオフ 6 complete/ゆびきりの記憶
 * ダンガンロンパ1・2 Reload
 * FLOWERS 春篇/夏篇/秋篇/冬篇
 * ホワイトアルバム2
-* Fate/stay night(進行形)
+* Fate/stay night
 * 逆転裁判1/6
 
 #### 語学ゲーム（英語）
