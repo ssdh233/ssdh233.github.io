@@ -12,10 +12,10 @@ permalink: /about/
 
 #### <font color="red">WOW</font>
 * Alge#11734 アリーナが好き 基本はHorde
-* <font color="#8787ED">[Algetest](https://worldofwarcraft.com/en-us/character/us/blackrock/algetest), [Algezest](https://worldofwarcraft.com/en-us/character/us/blackrock/algezest)</font>
+* <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algetest"><font color="#8787ED">Algetest</font></a>, <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algezest"><font color="#8787ED">Algezest</font></a>
   * bfa s3: 2s 2400, 3s 2100
   * bfa s4: 2s 2400, 3s Glad x2 最高2600
-* <font color="#40C7EB ">[Algepest](https://worldofwarcraft.com/en-us/character/us/blackrock/algepest)</font>
+* <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algepest"><font color="#40C7EB">Algepest</font></a>
   * bfa s4: 2s 2000, 3s 2100
 
 #### djmax repsect
