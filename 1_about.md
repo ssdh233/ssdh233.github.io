@@ -14,9 +14,9 @@ permalink: /about/
 * Alge#11734 アリーナが好き 基本はHorde
 * <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algetest"><font color="#8787ED">Algetest</font></a>, <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algezest"><font color="#8787ED">Algezest</font></a>
   * bfa s3: 2s 2400, 3s 2100
-  * bfa s4: 2s 2400, 3s Glad x2 最高2600
+  * bfa s4: 2s 2500, 3s Glad x3 最高2700
 * <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algepest"><font color="#40C7EB">Algepest</font></a>
-  * bfa s4: 2s 2000, 3s 2100
+  * bfa s4: 2s 2100, 3s 2300
 
 #### djmax repsect
 * 8BのS埋め頑張ってます
@@ -58,7 +58,7 @@ permalink: /about/
 * メモリーズオフ 6 complete/ゆびきりの記憶
 * ダンガンロンパ1・2 Reload
 * FLOWERS 春篇/夏篇/秋篇/冬篇
-* ホワイトアルバム2
+* ホワイトアルバム1/2
 * Fate/stay night
 * 逆転裁判1/6
 
