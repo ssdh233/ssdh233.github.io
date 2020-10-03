@@ -12,11 +12,11 @@ permalink: /about/
 
 #### <font color="red">WOW</font>
 * Alge#11734 アリーナが好き 基本はHorde
-* <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algetest"><font color="#8787ED">Algetest</font></a>, <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algezest"><font color="#8787ED">Algezest</font></a>
+* <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algetest"><font color="#8787ED">Algetest</font></a>, <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algezest"><font color="#8787ED">Algezest</font></a>, <a href="https://worldofwarcraft.com/en-us/character/us/proudmoore/algenest"><font color="#8787ED">Algenest</font></a>
   * bfa s3: 2s 2400, 3s 2100
-  * bfa s4: 2s 2500, 3s Glad x3 最高2700
+  * bfa s4: 2s 2500, 3s Glad x3 最高2800
 * <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algepest"><font color="#40C7EB">Algepest</font></a>
-  * bfa s4: 2s 2100, 3s 2300
+  * bfa s4: 2s 2200, 3s 2400
 
 #### djmax repsect
 * 8BのS埋め頑張ってます
