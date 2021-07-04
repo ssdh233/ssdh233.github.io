@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "魔兽世界（竞技场）はなぜ大失敗したのか"
-date: 2021-06-20
+date: 2021-06-26
 category: blog
 tags: [wow, 中文]
 description: "答えは明白である"
