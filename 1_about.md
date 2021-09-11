@@ -6,29 +6,39 @@ permalink: /about/
 
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
-#### <font color="red">ポップン</font>
+#### <font color="red">ポップン/発狂PMS</font>
 * 未クリア5 全埋めしたい(・∀・)
 * ポプともID：632820141042 登録はお気軽に
-
-#### diva FT
-* アケコンでやってる　[動画](https://www.bilibili.com/video/BV1u54y1p77f/)
-
-#### ぷよテト
-* テトリスメイン
-* ぷよテトS 40ライン1:09 レート12000台 
-* ぷよテト2 40ライン1:18 ウルトラ3万ちょい レート1400（パズル）/1500（テト）くらい
+* PMS五期発狂八段、●10~●14を中心にプレイしている
 
 #### シューティング
 * 基本はヘタレなクリアラーです
 * クリアリスト
   * 怒首領蜂 大復活 裏二周目 B-S
   * 虫姫さま ふたり マニアック レコ・ノーマル
-  * デススマイルズ LV3縛り EXあり ウィンディア
-  * 怒首領蜂 最大往生 A-S（陽蜂なし・オートボムON）
-  * エスプガルーダII アゲハ
-  * 東方 永L(結界組) 紺L(早苗) 天L(霊夢冬・季節開放封印) 虹L(霊夢&早苗)
+  * デススマイルズ [ウィンディア（LV3縛り・EXあり）](https://www.bilibili.com/video/BV18h411i7UE)
+  * 怒首領蜂 最大往生 [A-S（陽蜂なし・オートボムON）](https://www.bilibili.com/video/BV1iA411w7zG)
+  * エスプガルーダII [アゲハ](https://www.bilibili.com/video/BV1564y197GP) [アサギ（真セセリあり）](https://www.bilibili.com/video/BV1Q44y1t7Xy/)
+  * 東方永夜抄L 結界組
+  * 東方紺珠伝L 早苗
+  * 東方天空璋L [霊夢冬（季節開放封印）](https://www.bilibili.com/video/BV1AW411g745) 
+  * 東方虹龍洞L [霊夢（手動ボム封印）](https://www.bilibili.com/video/BV1Bq4y1j7Q5) 早苗 
 * スコアタ
-  * 2016.11.24 ウィンディア Ex-off [3.20億](https://twitter.com/ssdh233/status/801364272563572737)
+  * 2016.11.24 ウィンディア Ex-off [3.20億](https://www.bilibili.com/video/BV1uQ4y1m7Bh)
+
+
+#### 格ゲー
+* BBCF セリカかわいい。誰にも勝てない。
+* BBTAG ルビー&ワイス早く結婚して
+* メルブラ やる予定があります
+
+#### diva FT
+* アケコンでやってる [動画1](https://www.bilibili.com/video/BV1RW411k7VZ) [動画2](https://www.bilibili.com/video/BV1u54y1p77f)
+
+#### ぷよテト
+* テトリスメイン
+* ぷよテトS 40ライン1:09 レート12000台 
+* ぷよテト2 40ライン[1:11.96](https://www.bilibili.com/video/BV1sy4y1L7Dr) ウルトラ[4万ちょい](https://www.bilibili.com/video/BV1pv411J7W5) レート1400（パズル）/1500（テト）くらい
 
 #### djmax repsect
 * 8BのS埋め頑張ってます
@@ -38,12 +48,8 @@ permalink: /about/
 * 家庭用もよくやります
 
 #### ギタドラ
-* ドラム 銅ネ [スキル帳](http://gsv.fun/nextage/0/d)
+* ドラム 最高銅ネ 最近やってない
 * ギター 最高赤ネ 最近やってない
-
-#### ブレイブルー
-* BBCF セリカかわいい。誰にも勝てない。
-* BBTAG ルビー&ワイス早く結婚して
 
 #### WOW
 * Alge#11734 アリーナ勢 基本はHorde
@@ -68,6 +74,7 @@ permalink: /about/
 * FLOWERS 春篇/夏篇/秋篇/冬篇
 * ホワイトアルバム1/2
 * Fate/stay night
+* 月姫R
 * 逆転裁判1/6
 
 #### 語学ゲーム（英語）
