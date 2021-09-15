@@ -11,19 +11,27 @@ author:
   github: matsumatsu233
   email: songsongdahu233@gmail.com
   youtube: UCUSkvp3mmI31TClMIflzT0g
+  bilibili: 132990
 
 disqus:
   id: matsumatsu
 
 projects:
-  - title: ゲーセンマップ
-    url: "https://geisen-map.herokuapp.com"
-    description: 地図上にゲーセンを表示する便利なサイト。
-  - title: Gitadora-Skill-Viewer
+  - title: Gitadora Skill Viewer
     url: "http://gsv.fun"
-    description: ギタドラのスキルデータを保存するウェブサイトgsv.fun。
+    github: "https://github.com/ssdh233/gitadora-skill-viewer"
+    description: ギタドラのスキルデータを保存するウェブサイト。
+  - title: ポックラスクリプト
+    url: "https://twitter.com/ssdh233/status/1327288525473996802"
+    github: "https://github.com/ssdh233/popn-class"
+    description: ポップンクラスの一覧を出すブックマークレットスクリプト。
+  - title: PMS Database Support
+    url: "http://ssdh233.me/pms-diff-support/"
+    github: "https://github.com/ssdh233/pms-diff-support"
+    description: PMS Databaseの発狂難易度表にクリアレートを追加したもの（ソート可能）。
   - title: Mahjong-Tiles-Converter
-    url: "/mtc/"
+    url: "http://ssdh233.me/mtc/"
+    github: "https://github.com/ssdh233/mtc"
     description: 麻雀牌を表示するhtmlを自動的に生成する便利なツールです。
 
 

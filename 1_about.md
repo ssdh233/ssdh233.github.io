@@ -26,11 +26,10 @@ permalink: /about/
 * スコアタ
   * 2016.11.24 ウィンディア Ex-off [3.20億](https://www.bilibili.com/video/BV1uQ4y1m7Bh)
 
-
 #### 格ゲー
 * BBCF セリカかわいい。誰にも勝てない。
 * BBTAG ルビー&ワイス早く結婚して
-* メルブラ やる予定があります
+* MBTL やる予定があります
 
 #### diva FT
 * アケコンでやってる [動画1](https://www.bilibili.com/video/BV1RW411k7VZ) [動画2](https://www.bilibili.com/video/BV1u54y1p77f)

@@ -313,6 +313,15 @@
   color: rgba(51,51,51,0.8);
   font-weight: 400;
   font-size: 24px;
+
+  i {
+    font-size: 20px;
+  }
+  
+  a {
+    color: $base-color;
+    margin: 4px;
+  }
 }
 
 .project-desc {
