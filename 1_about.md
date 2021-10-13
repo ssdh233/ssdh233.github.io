@@ -7,7 +7,7 @@ permalink: /about/
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
 #### <font color="red">ポップン/発狂PMS</font>
-* 未クリア5 全埋めしたい(・∀・)
+* 未クリア5 全埋め頑張る
 * ポプともID：632820141042 登録はお気軽に
 * PMS五期発狂八段、●10~●14を中心にプレイしている
 
@@ -27,9 +27,9 @@ permalink: /about/
   * 2016.11.24 ウィンディア Ex-off [3.20億](https://www.bilibili.com/video/BV1uQ4y1m7Bh)
 
 #### 格ゲー
+* MBTL 琥珀使い。初心者脱出したい 200戦くらい
 * BBCF セリカかわいい。誰にも勝てない。
-* BBTAG ルビー&ワイス早く結婚して
-* MBTL やる予定があります
+* BBTAG ルビー&ワイス早く結婚して 1300戦
 
 #### diva FT
 * アケコンでやってる [動画1](https://www.bilibili.com/video/BV1RW411k7VZ) [動画2](https://www.bilibili.com/video/BV1u54y1p77f)
@@ -50,7 +50,12 @@ permalink: /about/
 * ドラム 最高銅ネ 最近やってない
 * ギター 最高赤ネ 最近やってない
 
+#### 麻雀
+* 天鳳特南六段
+* 今までの段位遷移：4545456
+
 #### WOW
+* 引退しました
 * Alge#11734 アリーナ勢 基本はHorde
 * <font color="#8787ED">Warlock: <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algetest">Algetest</a>, <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algezest">Algezest</a>, <a href="https://worldofwarcraft.com/en-us/character/us/proudmoore/algenest">Algenest</a></font>
   * bfa s3: 2s 2400, 3s 2100
@@ -59,10 +64,6 @@ permalink: /about/
 * <font color="#40C7EB">Mage: <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algepest">Algepest</a></font>
   * bfa s4: 2s 2200, 3s 2400
   * sl s1: Glad
-
-#### 麻雀
-* 天鳳特南六段
-* 今までの段位遷移：4545456
 
 #### 語学ゲーム（日本語）
 * 軌跡シリーズ 空fc/空sc/空3rd/零/碧/閃/閃II/閃III/閃IV
@@ -77,4 +78,5 @@ permalink: /about/
 * 逆転裁判1/6
 
 #### 語学ゲーム（英語）
-* Life Is Strange <- 日本語バージョンもあるので皆さんもやってみよう！
+* Life Is Strange 日本語バージョンもあるので皆さんもやってみよう！
+* Diablo 2: Resurrected 語学の価値ほぼない
