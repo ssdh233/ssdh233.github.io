@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "偶像大师 星耀季节"
+title: "偶像大师：星耀季节"
 date: 2021-10-14
 category: blog
 tags: [ゲーム感想,中文]
