@@ -3,7 +3,7 @@ layout: post
 title:  "卒業"
 date:   2017-03-03
 category: blog
-tags: [一般]
+tags: [日記]
 description: "研究を諦めました"
 ---
 
