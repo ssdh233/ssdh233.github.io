@@ -7,9 +7,14 @@ permalink: /about/
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
 #### <font color="red">ポップン/発狂PMS</font>
-* 未クリア5 全埋め頑張る
+* 未クリア3 全埋め頑張る
 * ポプともID：632820141042 登録はお気軽に
 * PMS五期発狂八段、●10~●14を中心にプレイしている
+
+#### 格ゲー
+* MBTL 琥珀使い。初心者脱出したい 500戦くらい
+* BBCF セリカかわいい。誰にも勝てない。
+* BBTAG ルビー&ワイス早く結婚して 1300戦
 
 #### シューティング
 * 基本はヘタレなクリアラーです
@@ -25,11 +30,6 @@ permalink: /about/
   * 東方虹龍洞L [霊夢（手動ボム封印）](https://www.bilibili.com/video/BV1Bq4y1j7Q5) 早苗 
 * スコアタ
   * 2016.11.24 ウィンディア Ex-off [3.20億](https://www.bilibili.com/video/BV1uQ4y1m7Bh)
-
-#### 格ゲー
-* MBTL 琥珀使い。初心者脱出したい 200戦くらい
-* BBCF セリカかわいい。誰にも勝てない。
-* BBTAG ルビー&ワイス早く結婚して 1300戦
 
 #### diva FT
 * アケコンでやってる [動画1](https://www.bilibili.com/video/BV1RW411k7VZ) [動画2](https://www.bilibili.com/video/BV1u54y1p77f)
