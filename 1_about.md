@@ -19,11 +19,12 @@ permalink: /about/
 #### シューティング
 * 基本はヘタレなクリアラーです
 * クリアリスト
-  * 怒首領蜂 大復活 裏二周目 B-S
+  * 怒首領蜂 大復活 裏二周目 Bスト
   * 虫姫さま ふたり マニアック レコ・ノーマル
   * デススマイルズ [ウィンディア（LV3縛り・EXあり）](https://www.bilibili.com/video/BV18h411i7UE)
   * 怒首領蜂 最大往生 [A-S（陽蜂なし・オートボムON）](https://www.bilibili.com/video/BV1iA411w7zG)
   * エスプガルーダII [アゲハ](https://www.bilibili.com/video/BV1564y197GP) [アサギ（真セセリあり）](https://www.bilibili.com/video/BV1Q44y1t7Xy/)
+  * 怒首領蜂 大復活　ブラックラーベル Bボム（ヒバチあり）
   * 東方永夜抄L 結界組
   * 東方紺珠伝L 早苗
   * 東方天空璋L [霊夢冬（季節開放封印）](https://www.bilibili.com/video/BV1AW411g745) 
