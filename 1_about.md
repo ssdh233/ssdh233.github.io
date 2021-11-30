@@ -7,12 +7,12 @@ permalink: /about/
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
 #### <font color="red">ポップン/発狂PMS</font>
-* 未クリア3 全埋め頑張る
+* 未クリア2 全埋め頑張る
 * ポプともID：632820141042 登録はお気軽に
 * PMS五期発狂八段、●10~●14を中心にプレイしている
 
 #### 格ゲー
-* MBTL 琥珀使い。初心者脱出したい 500戦くらい
+* MBTL 琥珀使い。最高Aランク。初心者脱出目指す。1500戦くらい
 * BBCF セリカかわいい。誰にも勝てない。
 * BBTAG ルビー&ワイス早く結婚して 1300戦
 
@@ -24,7 +24,7 @@ permalink: /about/
   * デススマイルズ [ウィンディア（LV3縛り・EXあり）](https://www.bilibili.com/video/BV18h411i7UE)
   * 怒首領蜂 最大往生 [A-S（陽蜂なし・オートボムON）](https://www.bilibili.com/video/BV1iA411w7zG)
   * エスプガルーダII [アゲハ](https://www.bilibili.com/video/BV1564y197GP) [アサギ（真セセリあり）](https://www.bilibili.com/video/BV1Q44y1t7Xy/)
-  * 怒首領蜂 大復活　ブラックラーベル Bボム（ヒバチあり）
+  * 怒首領蜂 大復活　ブラックラーベル [Bボム（ヒバチあり）](https://www.bilibili.com/video/BV1wq4y1r7V2)
   * 東方永夜抄L 結界組
   * 東方紺珠伝L 早苗
   * 東方天空璋L [霊夢冬（季節開放封印）](https://www.bilibili.com/video/BV1AW411g745) 
