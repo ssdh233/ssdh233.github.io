@@ -3,7 +3,7 @@ layout: post
 title: "评论系统改造"
 date: 2021-12-05
 category: blog
-tags: [博客改造，中文，プログラミング]
+tags: [博客改造,中文,プログラミング]
 description: "disqus -> isso"
 ---
 
