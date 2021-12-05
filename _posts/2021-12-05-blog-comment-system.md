@@ -11,7 +11,7 @@ description: "disqus -> isso"
 
 在windows上搞isso有些水土不服，外加昨天虚拟机装了好几次莫名失败，于是就在装虚拟机失败的时间里尝试了[某个isso的docker image](https://hub.docker.com/r/machines/isso)，发现配置起来还算简单，写个config，初始化一个sqlite的db文件就可以开搞了。最终配置文件大概是这样：[ssdh233/comments.ssdh233.me](https://github.com/ssdh233/comments.ssdh233.me)。
 
-搞好之后找地方托管，先试了下阿里云结果发现要备案，之后发现AWS好像不一定会被墙，就决定先放到AWS上试试了。因为那个docker image默认是8080端口，就顺便用了nginx来reverse proxy一下。毕竟一个AWS EC2的实例光用来放一个没大有人用的评论系统也是有点太亏了= =
+搞好之后找地方托管，先试了下阿里云结果发现要备案，之后发现AWS好像不一定会被墙，就决定先放到AWS上试试了。因为那个docker image默认是8080端口，就顺便用了nginx来reverse proxy一下。之后可能会在AWS上放点别的东西，毕竟一个AWS EC2的实例光用来放一个没大有人用的评论系统也是有点太亏了= =
 
 目前还有很多问题没有解决，列个表监督下：
 
