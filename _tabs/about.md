@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。

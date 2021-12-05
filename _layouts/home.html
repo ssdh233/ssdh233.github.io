@@ -24,6 +24,7 @@ layout: page
 {% endif %}
 
 
+
 <!-- Get default posts -->
 
 {% assign default_beg = offset | minus: pinned.size %}
@@ -78,6 +79,12 @@ layout: page
           {% endfor %}
           </span>
         {% endif %}
+
+        
+        <!-- comments -->
+        <i class="far fa-clock fa-fw"></i>
+        <a class="post-meta-comment text-muted" href="{{ post.url | prepend: site.baseurl }}#isso-thread">Comments</a>
+
       </div>
 
       {% if post.pin %}
@@ -98,3 +105,8 @@ layout: page
 {% if paginator.total_pages > 0 %}
   {% include post-paginator.html %}
 {% endif %}
+
+<script
+data-isso="//comments.ssdh233.me/"
+src="//comments.ssdh233.me/js/count.min.js"
+></script>
