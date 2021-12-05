@@ -2,8 +2,8 @@
 layout: post
 title: "魔兽世界（竞技场）はなぜ大失敗したのか"
 date: 2021-06-26
-category: blog
-tags: [wow,ゲーム感想, 中文]
+category: cn
+tags: [wow,ゲーム感想]
 description: "答えは明白である"
 ---
 

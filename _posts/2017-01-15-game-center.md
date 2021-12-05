@@ -2,7 +2,7 @@
 layout: post
 title:  "溝の口ゲーセン考察レポート"
 date:   2017-01-15
-category: blog
+category: ja
 tags: [音ゲー,ゲーセン]
 description: "音ゲーを中心に考察してきました"
 ---

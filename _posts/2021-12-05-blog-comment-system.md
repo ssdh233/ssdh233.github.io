@@ -2,8 +2,8 @@
 layout: post
 title: "评论系统改造"
 date: 2021-12-05
-category: blog
-tags: [博客改造,中文,プログラミング]
+category: cn
+tags: [博客改造,プログラミング]
 description: "disqus -> isso"
 ---
 
@@ -30,4 +30,3 @@ description: "disqus -> isso"
 
 
 说起来前几天发现bilibili也要绑定国内手机号才能登陆了，在下在国内的手机号早已经欠费N年被注销了，目前申诉也没有新的手机号可以用，只能等明年回国先办个手机号再说了，能说话的地方真的是越来越少了。。
-

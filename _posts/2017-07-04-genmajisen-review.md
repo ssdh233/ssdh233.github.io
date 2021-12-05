@@ -2,7 +2,7 @@
 layout: post
 title:  "ゲンマ実戦編 PART1 review"
 date:   2017-07-04
-category: blog
+category: ja
 tags: [麻雀,天鳳]
 description: "レビューじゃなくreview"
 ---
