@@ -7,7 +7,7 @@ tags: [博客改造,中文,プログラミング]
 description: "disqus -> isso"
 ---
 
-今年才知道disqus原来也被墙了，所以国内的朋友访问这里是看不到评论区的。（不过想想也是，能说话的地方一般都是要被墙的。）这两天在[白热老兄的博客](https://blog.asaki.me/)上发现了有可以自己托管的评论系统（commento，不过据白热老兄说进程经常挂），于是就Google了一波最终决定先试试[isso](https://posativ.org/isso/)。
+今年才知道disqus原来也被墙了，所以国内的朋友访问这里是看不到评论区的。（~~不过想想也是，能说话的地方一般都是要被墙的。~~）这两天在[白热老兄的博客](https://blog.asaki.me/)上发现了有可以自己托管的评论系统（commento，不过据白热老兄说进程经常挂），于是就Google了一波最终决定先试试[isso](https://posativ.org/isso/)。
 
 在windows上搞isso有些水土不服，外加昨天虚拟机装了好几次莫名失败，于是就在装虚拟机失败的时间里尝试了[某个isso的docker image](https://hub.docker.com/r/machines/isso)，发现配置起来还算简单，写个config，初始化一个sqlite的db文件就可以开搞了。最终配置文件大概是这样：[ssdh233/comments.ssdh233.me](https://github.com/ssdh233/comments.ssdh233.me)。
 
