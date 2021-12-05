@@ -7,29 +7,30 @@ permalink: /about/
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
 #### <font color="red">ポップン/発狂PMS</font>
-* 未クリア5 全埋め頑張る
+* 未クリア2 全埋め頑張る
 * ポプともID：632820141042 登録はお気軽に
 * PMS五期発狂八段、●10~●14を中心にプレイしている
+
+#### 格ゲー
+* MBTL 琥珀使い。最高Aランク。初心者脱出目指す。1500戦くらい
+* BBCF セリカかわいい。誰にも勝てない。
+* BBTAG ルビー&ワイス早く結婚して 1300戦
 
 #### シューティング
 * 基本はヘタレなクリアラーです
 * クリアリスト
-  * 怒首領蜂 大復活 裏二周目 B-S
+  * 怒首領蜂 大復活 裏二周目 Bスト
   * 虫姫さま ふたり マニアック レコ・ノーマル
   * デススマイルズ [ウィンディア（LV3縛り・EXあり）](https://www.bilibili.com/video/BV18h411i7UE)
   * 怒首領蜂 最大往生 [A-S（陽蜂なし・オートボムON）](https://www.bilibili.com/video/BV1iA411w7zG)
   * エスプガルーダII [アゲハ](https://www.bilibili.com/video/BV1564y197GP) [アサギ（真セセリあり）](https://www.bilibili.com/video/BV1Q44y1t7Xy/)
+  * 怒首領蜂 大復活　ブラックラーベル [Bボム（ヒバチあり）](https://www.bilibili.com/video/BV1wq4y1r7V2)
   * 東方永夜抄L 結界組
   * 東方紺珠伝L 早苗
   * 東方天空璋L [霊夢冬（季節開放封印）](https://www.bilibili.com/video/BV1AW411g745) 
   * 東方虹龍洞L [霊夢（手動ボム封印）](https://www.bilibili.com/video/BV1Bq4y1j7Q5) 早苗 
 * スコアタ
   * 2016.11.24 ウィンディア Ex-off [3.20億](https://www.bilibili.com/video/BV1uQ4y1m7Bh)
-
-#### 格ゲー
-* MBTL 琥珀使い。初心者脱出したい 200戦くらい
-* BBCF セリカかわいい。誰にも勝てない。
-* BBTAG ルビー&ワイス早く結婚して 1300戦
 
 #### diva FT
 * アケコンでやってる [動画1](https://www.bilibili.com/video/BV1RW411k7VZ) [動画2](https://www.bilibili.com/video/BV1u54y1p77f)
