@@ -51,7 +51,7 @@
 
   </ul> <!-- ul.nav.flex-column -->
 
-  <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center align-items-center">
+  <div class="sidebar-bottom mt-auto d-flex justify-content-center align-items-center">
 
     {% unless site.theme_mode %}
       <a id="mode-toggle-wrapper" tabindex="0" onclick="flipMode()">
@@ -69,6 +69,8 @@
           https://github.com/{{ site.github.username }}
         {%- elsif entry.type == 'twitter' -%}
           https://twitter.com/{{ site.twitter.username }}
+        {%- elsif entry.type == 'bilibili' -%}
+          https://space.bilibili.com/{{ site.bilibili.userid }}
         {%- elsif entry.type == 'email' -%}
           {% assign email = site.social.email | split: '@' %}
           javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')

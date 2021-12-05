@@ -6,7 +6,7 @@ order: 2
 ---
   
 <div class="project">
-  {% for project in site.projects %}
+  {% for project in site.data.project.projects %}
     <div class="project-list-item">
       <h2 class="project-title">
         {{ project.title }}
