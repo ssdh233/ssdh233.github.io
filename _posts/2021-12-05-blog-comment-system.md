@@ -35,5 +35,6 @@ description: "disqus -> isso"
 
 12.06 19点更新： HTTPS已经配置完成！评论也全部恢复完毕！不仅如此，还偶然发现了lain老兄的两条遗失的评论！（原因还是因为在下对disqus管理不熟悉，需要去管理面板去承认掉匿名评论才能显示）目前数据库每天会备份两次，restore也已经测试好了。应该是万无一失了！现在唯一怕的就是评论用服务器被墙。。接下来该好好研究下isso的功能了。
 
-遗失评论1： https://ssdh233.me/blog/2021/07/05/divaft.html#isso-thread
-遗失评论2： https://ssdh233.me/blog/2021/07/11/divaftdx.html#isso-thread
+遗失评论1： [https://ssdh233.me/blog/2021/07/05/divaft.html#isso-thread](https://ssdh233.me/blog/2021/07/05/divaft.html#isso-thread)
+
+遗失评论2： [https://ssdh233.me/blog/2021/07/11/divaftdx.html#isso-thread](https://ssdh233.me/blog/2021/07/11/divaftdx.html#isso-thread)
