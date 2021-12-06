@@ -2,7 +2,7 @@
 layout: post
 title: "评论系统改造"
 date: 2021-12-05
-category: cn
+category: 中文
 tags: [博客改造,プログラミング]
 description: "disqus -> isso"
 ---

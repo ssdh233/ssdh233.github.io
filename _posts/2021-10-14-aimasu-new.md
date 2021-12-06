@@ -2,7 +2,7 @@
 layout: post
 title: "偶像大师：星耀季节"
 date: 2021-10-14
-category: cn
+category: 中文
 tags: [ゲーム感想]
 description: "结论：不能玩。"
 ---

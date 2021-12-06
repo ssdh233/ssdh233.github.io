@@ -2,7 +2,7 @@
 layout: post
 title:  "書けない"
 date:   2017-03-12
-category: ja
+category: 日本語
 tags: [語学]
 description: "日本語も英語も"
 ---

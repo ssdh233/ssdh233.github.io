@@ -2,7 +2,7 @@
 layout: post
 title:  "ウザく本一周"
 date:   2017-05-12
-category: ja
+category: 日本語
 tags: [天鳳,麻雀]
 description: "牌効率UP"
 ---
