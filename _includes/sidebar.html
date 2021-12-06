@@ -40,7 +40,8 @@
     <!-- the real tabs -->
     {% for tab in site.tabs %}
       {% if tab.sidebar != false %}
-      <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
+      {% assign page_url = page.url | replace: "_cn", "" %}
+      <li class="nav-item{% if tab.url == page_url %}{{ " active" }}{% endif %}">
         <a href="{{ tab.url | relative_url }}" class="nav-link">
           <i class="fa-fw {{ tab.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
           {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
