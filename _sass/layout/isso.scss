@@ -4,13 +4,19 @@
 
 .textarea-wrapper > div {
   background-color: rgba(0, 0, 0, 0) !important;
+  color: var(--text-color) !important;
+  border-color: var(--input-focus-border-color) !important;
 }
 
 .input-wrapper > input {
-  background-color: rgba(0, 0, 0, 0) !important;;
+  background-color: rgba(0, 0, 0, 0) !important;
+  color: var(--text-color) !important;
+  border-color: var(--input-focus-border-color) !important;
 }
 
 .post-action > input {
-  background-color: rgba(0, 0, 0, 0) !important;;
+  background-color: rgba(0, 0, 0, 0) !important;
+  border-color: var(--btn-border-color) !important;
+  color: var(--btn-text-color) !important;
 }
 
