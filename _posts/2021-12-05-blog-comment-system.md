@@ -24,7 +24,7 @@ description: "disqus -> isso"
   * 需要观测一阵儿看看会不会被墙（这个是重点）
 * Client方面
   * ~~i18n的功能似乎没有放到配置文件里来，不过不是大问题，大家都懂English :D 要解决的话得改下代码重新build docker image了。最近也在考虑分类一下中文/日语写的文章，到时候一起搞。~~
-  * ~~不知道isso有没有提供通知功能。~~ 发现可以设置一个SMTP server来发通知，这几天搞一搞试试正好学习一下。
+  * ~~不知道isso有没有提供通知功能。 发现可以设置一个SMTP server来发通知，这几天搞一搞试试正好学习一下。~~
   * ~~isso的风格跟目前本博客还是不太一致。不知道能不能自定义css，应该是能的。最近也有换个jekyll主题的打算，到时候一起搞。~~
   * 没有提供表情和图片上传功能，暂时只能麻烦各位[手动枯花][手动捂脸哭]了。
 
@@ -38,3 +38,7 @@ description: "disqus -> isso"
 遗失评论1： [https://ssdh233.me/blog/2021/07/05/divaft.html#isso-thread](https://ssdh233.me/blog/2021/07/05/divaft.html#isso-thread)
 
 遗失评论2： [https://ssdh233.me/blog/2021/07/11/divaftdx.html#isso-thread](https://ssdh233.me/blog/2021/07/11/divaftdx.html#isso-thread)
+
+12.08 最终更新：
+
+评论通知系统已经设置完毕！SMTP服务器是用的Amazon SES，设置起来不算太麻烦。不过isso客户端这边年久失修，本来是有一些bug，不过还好可以用js改掉。现在默认所有回复都可以收到邮件通知了！如果不想收到通知，可以选择不填邮箱，或者手动取消掉收通知的选项。
