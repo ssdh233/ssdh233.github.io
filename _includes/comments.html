@@ -5,3 +5,27 @@
   data-isso-reply-notifications="true"
   src="//comments.ssdh233.me/js/embed.min.js"
 ></script>
+<script>
+  window.onload = () => {
+    const notifyLabelEl = document.querySelector(
+      "#isso-thread > div.isso-postbox > div > section.notification-section > label"
+    );
+    notifyLabelEl.removeChild(notifyLabelEl.firstChild);
+    notifyLabelEl.firstChild.className = "";
+    notifyLabelEl.firstChild.checked = true;
+
+    Array.from(
+      document.querySelectorAll("div.isso-comment-footer > a.reply")
+    ).forEach((replyEl) => {
+      replyEl.onclick = () => {
+        Array.from(
+          document.querySelectorAll(
+            "section.notification-section input[type=checkbox]"
+          )
+        ).forEach((notifyBoxEl) => {
+          notifyBoxEl.checked = true;
+        });
+      };
+    });
+  };
+</script>
