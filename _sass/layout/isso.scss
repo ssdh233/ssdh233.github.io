@@ -8,6 +8,10 @@
   border-color: var(--input-focus-border-color) !important;
 }
 
+.textarea-wrapper > .textarea.withEmoji {
+  margin-top: 4px !important;
+}
+
 .input-wrapper > input {
   background-color: rgba(0, 0, 0, 0) !important;
   color: var(--text-color) !important;
@@ -20,3 +24,10 @@
   color: var(--btn-text-color) !important;
 }
 
+.emojiButton {
+  width: 32px;
+  height: 32px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}

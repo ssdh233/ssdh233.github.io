@@ -14,10 +14,14 @@
     notifyLabelEl.firstChild.className = "";
     notifyLabelEl.firstChild.checked = true;
 
+    addEmoji();
+
     Array.from(
       document.querySelectorAll("div.isso-comment-footer > a.reply")
     ).forEach((replyEl) => {
       replyEl.onclick = () => {
+        console.log("on replyEl click");
+        addEmoji();
         Array.from(
           document.querySelectorAll(
             "section.notification-section input[type=checkbox]"
@@ -28,4 +32,35 @@
       };
     });
   };
+
+  function addEmoji() {
+    console.log("add emoji");
+    Array.from(document.querySelectorAll(".isso-postbox .textarea")).forEach(
+      (textareaEl) => {
+        if (textareaEl.classList.contains("withEmoji")) {
+          return;
+        }
+        ["🌹", "🥀"].reverse().forEach((icon) => {
+          const EmojiButton = document.createElement("button");
+          const EmojiButtonText = document.createTextNode(icon);
+          EmojiButton.appendChild(EmojiButtonText);
+          EmojiButton.className = "emojiButton";
+          EmojiButton.onclick = () => {
+            console.log("onEmojiButton click");
+            if (
+              textareaEl.textContent === "Type Comment Here (at least 3 chars)"
+            ) {
+              textareaEl.classList.remove("placeholder");
+              textareaEl.textContent = icon;
+            } else {
+              textareaEl.textContent += icon;
+            }
+          };
+
+          textareaEl.classList.add("withEmoji");
+          textareaEl.parentElement.prepend(EmojiButton);
+        });
+      }
+    );
+  }
 </script>
