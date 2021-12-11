@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[镜像] 太鼓达人 判定调整教程"
-date: 2019-09-03
+date: 2019-08-03
 category: 中文
 tags: [音ゲー, 太鼓]
 ---
