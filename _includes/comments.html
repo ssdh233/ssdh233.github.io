@@ -10,7 +10,12 @@
   src="//comments.ssdh233.me/js/embed.min.js"
 ></script>
 <script>
-  window.onload = () => {
+  async function sleep(timeout) {
+    return new Promise((resolve) => setTimeout(resolve, timeout));
+  }
+
+  window.onload = async () => {
+    console.log("Testing");
     const notifyLabelEl = document.querySelector(
       "#isso-thread > div.isso-postbox > div > section.notification-section > label"
     );
@@ -20,9 +25,20 @@
 
     addEmoji();
 
+    while (!document.querySelector("#isso-root > .isso-comment")) {
+      await sleep(100);
+    }
+
+    console.log(
+      "root div",
+      document.querySelector("#isso-root > .isso-comment")
+    );
+
     Array.from(
       document.querySelectorAll("div.isso-comment-footer > a.reply")
     ).forEach((replyEl) => {
+      console.log("Adding onClick");
+
       replyEl.onclick = () => {
         addEmoji();
         Array.from(
