@@ -12,7 +12,7 @@ tags: [wow]
 
 ### 通用操作
 
-首先所有宠物都会设置成被动状态<img class="normal" src="{{ site.url }}/assets/2020-09-27/passive.jpg">，因为协助状态<img class="normal" src="{{ site.url }}/assets/2020-09-27/assist.jpg">下宠物会根据术士改变自己攻击的目标。所有的宠物都有攻击!<img src="{{ site.url }}/assets/2020-09-27/attack.jpg">，跟随<img class="normal" src="{{ site.url }}/assets/2020-09-27/follow.jpg">，移动<img class="normal" src="{{ site.url }}/assets/2020-09-27/moveto.jpg">三个基本操作。
+首先所有宠物都会设置成被动状态<img class="normal" src="{{ site.url }}/assets/2020-09-27/passive.jpg">，因为协助状态<img class="normal" src="{{ site.url }}/assets/2020-09-27/assist.jpg">下宠物会根据术士改变自己攻击的目标。所有的宠物都有攻击!<img class="normal" src="{{ site.url }}/assets/2020-09-27/attack.jpg">，跟随<img class="normal" src="{{ site.url }}/assets/2020-09-27/follow.jpg">，移动<img class="normal" src="{{ site.url }}/assets/2020-09-27/moveto.jpg">三个基本操作。
 
 攻击<img class="normal" src="{{ site.url }}/assets/2020-09-27/attack.jpg">可以让宠物去不断地攻击一个对手，直到对手吃了可能会破控的控制(晕，死缠之类不在此列)；如果对手被控制，宠物就会自动返回到跟随/移动(取决于攻击之前宠物的状态)。因此在目标吃控制之后，需要再按一次让宠物重新攻击对手。关于攻击有一个细节，如果对敌方目标按了攻击<img class="normal" src="{{ site.url }}/assets/2020-09-27/attack.jpg">，但是宠物还在路上，这时就算敌方目标被控制了，宠物也会去攻击被控制的目标。这时候一定要用下面的跟随<img class="normal" src="{{ site.url }}/assets/2020-09-27/follow.jpg">或者移动<img class="normal" src="{{ site.url }}/assets/2020-09-27/moveto.jpg">把宠物手动拉回来防止破控。
 
