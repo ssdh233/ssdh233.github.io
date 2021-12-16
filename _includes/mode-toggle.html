@@ -43,6 +43,7 @@
         self.updateMermaid();
       });
 
+      this.setDark(); // set dark mode as default
     } /* constructor() */
 
     get sysDarkPrefers() { return window.matchMedia("(prefers-color-scheme: dark)"); }
