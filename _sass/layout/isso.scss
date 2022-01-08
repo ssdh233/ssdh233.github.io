@@ -18,6 +18,11 @@
   border-color: var(--input-focus-border-color) !important;
 }
 
+.input-wrapper > input[type=email] {
+  display: none;
+}
+
+
 .post-action > input {
   background-color: rgba(0, 0, 0, 0) !important;
   border-color: var(--btn-border-color) !important;
@@ -31,3 +36,5 @@
   background-color: transparent;
   cursor: pointer;
 }
+
+
