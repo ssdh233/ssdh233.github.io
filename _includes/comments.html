@@ -70,9 +70,14 @@
                 "Type Comment Here (at least 3 chars)"
               ) {
                 textareaEl.classList.remove("placeholder");
-                textareaEl.textContent = icon;
+                textareaEl.innerHTML = icon;
               } else {
-                textareaEl.textContent += icon;
+                console.log("textareaEl.lastChild", textareaEl.lastChild.nodeName);
+                if (textareaEl.lastChild.nodeName === "DIV") {
+                  textareaEl.lastChild.textContent += icon;
+                } else {
+                  textareaEl.innerHTML += icon;
+                }
               }
             };
 
