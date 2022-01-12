@@ -67,7 +67,6 @@ sidebar: false
   </tbody>
 </table>
 
-
 #### 格斗游戏
 * MBTL 琥珀使。最高 A+rank。本作目标是脱新。2000战左右
 * BBTAG Ruby&Weiss使（这对快点结婚！）。1300战左右
