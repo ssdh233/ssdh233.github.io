@@ -13,6 +13,58 @@ order: 1
 * ポプともID：632820141042 登録はお気軽に
 * PMS五期発狂八段、●10~●14を中心にプレイしている
 
+#### 家庭用音ゲー
+<table id="skill_table" class="skill_table_hide">
+  <thead>
+    <tr>
+      <th>ゲーム</th>
+      <th>詳細</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>太鼓の達人</td>
+      <td>PS4: 全良26譜面；未フル8（<a href="https://www.bilibili.com/video/BV17t411u7Rb">消失裏</a>，≠MM，まださいたま2000普通譜面フルコン）；★10 120万13/60 （2019年8月まで）<br><font style="color:green">NS1：全良15譜面；★10 フルコン11/15 120万3/15（購入していないDLCは含まれていない）</font><br>その他：全良たくさん，200くらい？；PSP2，PSPDX，WIIU1，3DS1全曲フルコン；未フルはだいたいPS4と同じ、あとドンカマ</td>
+    </tr>
+    <tr>
+      <td>djmax</td>
+      <td>PS4オンリー<br><font style="color:green">4B15全S, 99%FC 2/10</font><br>6B15未S2譜面(We're All Gonna Die, Nightmare)<br>8B未S19譜面</td>
+    </tr>
+    <tr>
+      <td>ez2on</td>
+      <td><font style="color:green">アナコン4B最高S16(1曲) <a href="https://docs.google.com/spreadsheets/d/1aQI3IRFGZcZ9afgbxY730PBUYqvpclEDIA9EbcuRxis/edit#gid=604526569">詳細</a></font><br>アナコン6B最高S15(1曲)</td>
+    </tr>
+    <tr>
+      <td>pop’n music</td>
+      <td>PMP2 40以下全埋め 41クリア1（手芸） 42クリア2（ヒプロ3，ナイトメアカルーセル） 43…<br>PMP1 復帰してからまだやっていない<br>アナコンLively PMPキーコンフィグ 45までだいたいクリアできる 46クリア17/29 47クリア0</td>
+    </tr>
+    <tr>
+      <td>project diva</td>
+      <td>FT: ★9 フルコン3 ★9.5フルコン1 ★10フルコンまだない <a href="https://www.bilibili.com/video/BV1u54y1p77f">動画</a><br>2,2.5,F：未フルコン1：激唱</td>
+    </tr>
+    <tr>
+      <td>DEEMO -Reborn-</td>
+      <td>解禁中…</td>
+    </tr>
+    <tr>
+      <td>DDR Grand Prix</td>
+      <td>デフォ曲全クリア，最高AAA15（1曲，<a href="https://www.bilibili.com/video/BV1BY411s7ML">MAX 300</a>）</td>
+    </tr>
+    <tr>
+      <td>アイドルマスター: shiny TV</td>
+      <td>まだやっていない。やりたいけど</td>
+    </tr>
+    <tr>
+      <td>けいおん!放課後ライブ!!</td>
+      <td><a href="https://www.bilibili.com/video/BV1tW411q737">Cagayake!GIRLS(律-秘伝ハード)</a>フルコンできる</td>
+    </tr>
+    <tr>
+      <td>ソルフェージュ</td>
+      <td>解禁中…</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 格ゲー
 * MBTL 琥珀使い。最高Aランク。初心者脱出目指す。1500戦くらい
 * BBCF セリカかわいい。誰にも勝てない。
