@@ -124,7 +124,7 @@ sidebar: false
 * 月姬R
 * 逆转裁判1/6
 * CLANNAD（进行中）
-* ソルフェージュ（进行中）
+* 百合二重奏（进行中）
 
 #### 英语学习软件
 * Life Is Strange
