@@ -12,11 +12,64 @@ sidebar: false
 
 #### <font color="red">pop'n music/发狂PMS</font>
 * 本家未过关2
-* Poputomo ID：632820141042
+* Poputomo ID：632820141042，欢迎添加
 * PMS五期发狂八段，目前主打●10~●14
 
+#### 家用机音游
+<table id="skill_table" class="skill_table_hide">
+  <thead>
+    <tr>
+      <th>游戏</th>
+      <th>描述</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>太鼓</td>
+      <td>PS4: 全良26谱面；未全连8（<a href="https://www.bilibili.com/video/BV17t411u7Rb">里消失</a>，≠MM，又埼玉普通谱面全连）；★10 120万13/60 （统计截止至2019年8月）<br><font style="color:green">NS1：全良15谱面；★10 全连11/15 120万3/15（不统计没买的DLC）</font><br>其余家用作：全良很多谱面，应该有200~300；PSP2，PSPDX，WIIU1，3DS1全曲全连；未全连基本和PS4一致，再加上咚咔码</td>
+    </tr>
+    <tr>
+      <td>djmax</td>
+      <td>目前只玩PS4。<br><font style="color:green">4B15全S, 99%FC 2/10</font><br>6B15未S2谱面(We're All Gonna Die, Nightmare)<br>8B未S19谱面</td>
+    </tr>
+    <tr>
+      <td>ez2on</td>
+      <td><font style="color:green">手柄4B最高S16级1曲 <a href="https://docs.google.com/spreadsheets/d/1aQI3IRFGZcZ9afgbxY730PBUYqvpclEDIA9EbcuRxis/edit#gid=604526569">详细</a></font><br>手柄6B最高S15级1曲<br>键盘未启动中。。。</td>
+    </tr>
+    <tr>
+      <td>pop’n music</td>
+      <td>PMP2代 40以下全埋 41未过关1（手芸） 42过关2（雪上断火，狂想曲） 43…<br>PMP1代 复归之后还未开打，以前的就不算了，应该是没过到40。<br>手柄Lively PMP键位 45以下基本可以过 46过关17/29 47过关0</td>
+    </tr>
+    <tr>
+      <td>project diva</td>
+      <td>FT: ★9 全连3 ★9.5全连1 ★10全连努力中… <a href="https://www.bilibili.com/video/BV1u54y1p77f">最新视频</a><br>2,2.5,F：未全连1首：激唱</td>
+    </tr>
+    <tr>
+      <td>DEEMO -Reborn-</td>
+      <td>还在打剧情…20多米了</td>
+    </tr>
+    <tr>
+      <td>DDR Grand Prix</td>
+      <td>包月曲手柄全过关，最高AAA15（1曲，<a href="https://www.bilibili.com/video/BV1BY411s7ML">MAX 300</a>）</td>
+    </tr>
+    <tr>
+      <td>偶像大师: shiny TV</td>
+      <td>刚买了一个曲包，还没怎么打…</td>
+    </tr>
+    <tr>
+      <td>轻音少女:放学后演唱会</td>
+      <td>可以全连<a href="https://www.bilibili.com/video/BV1tW411q737">Cagayake!GIRLS(律-秘传hard)</a></td>
+    </tr>
+    <tr>
+      <td>ソルフェージュ</td>
+      <td>还在打剧情…</td>
+    </tr>
+  </tbody>
+</table>
+
+
 #### 格斗游戏
-* MBTL 琥珀使。最高 Arank。本作目标是脱新。1500战左右
+* MBTL 琥珀使。最高 A+rank。本作目标是脱新。2000战左右
 * BBTAG Ruby&Weiss使（这对快点结婚！）。1300战左右
 * BBCF Celica使。100战未满。谁都打不过- -
 
@@ -36,20 +89,10 @@ sidebar: false
 * Score Attack
   * 2016.11.24 Windia Ex-off [3.20亿](https://www.bilibili.com/video/BV1uQ4y1m7Bh)
 
-#### diva FT
-* 使用格斗摇杆 [视频1](https://www.bilibili.com/video/BV1RW411k7VZ) [视频2](https://www.bilibili.com/video/BV1u54y1p77f)
-
 #### Puyopuyo Tetris
 * 主Tetris
 * Puyopuyo Tetris S 40行1:09 Rate 12000左右
-*  Puyopuyo Tetris 2 40行[1:11.96](https://www.bilibili.com/video/BV1sy4y1L7Dr) Ultra[4万+](https://www.bilibili.com/video/BV1pv411J7W5) Rate 1400（Puzzle League）/1500（Tetris League）左右
-
-#### djmax repsect
-* 在尝试埋8B的S
-
-#### 太鼓达人
-* 街机全良12谱面（★10 1谱面）
-* 家用版打的比较多
+* Puyopuyo Tetris 2 40行[1:11.96](https://www.bilibili.com/video/BV1sy4y1L7Dr) Ultra[4万+](https://www.bilibili.com/video/BV1pv411J7W5) Rate 1400（Puzzle League）/1500（Tetris League）左右
 
 #### Gitadora
 * Drummania 最高铜名
@@ -80,6 +123,8 @@ sidebar: false
 * Fate/stay night
 * 月姬R
 * 逆转裁判1/6
+* CLANNAD（进行中）
+* ソルフェージュ（进行中）
 
 #### 英语学习软件
 * Life Is Strange
