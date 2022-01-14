@@ -16,6 +16,7 @@ sidebar: false
 * PMS五期发狂八段，目前主打●10~●14
 
 #### 家用机音游
+<div class="table-wrapper">
 <table id="skill_table" class="skill_table_hide">
   <thead>
     <tr>
@@ -66,6 +67,7 @@ sidebar: false
     </tr>
   </tbody>
 </table>
+</div>
 
 #### 格斗游戏
 * MBTL 琥珀使。最高 A+rank。本作目标是脱新。2000战左右
