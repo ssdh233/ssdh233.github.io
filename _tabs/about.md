@@ -14,6 +14,8 @@ order: 1
 * PMS五期発狂八段、●10~●14を中心にプレイしている
 
 #### 家庭用音ゲー
+
+<div class="table-wrapper">
 <table id="skill_table" class="skill_table_hide">
   <thead>
     <tr>
@@ -64,6 +66,7 @@ order: 1
     </tr>
   </tbody>
 </table>
+</div>
 
 #### 格ゲー
 * MBTL 琥珀使い。最高Aランク。初心者脱出目指す。1500戦くらい
