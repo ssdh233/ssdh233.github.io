@@ -11,9 +11,8 @@ sidebar: false
 这里是松松(a.k.a. 松松打虎, ssdh233）。大部分时间都在玩游戏，偶尔写点代码，学点外语。
 
 #### <font color="red">pop'n music/发狂PMS</font>
-* 本家未过关2
-* Poputomo ID：632820141042，欢迎添加
-* PMS五期发狂八段，目前主打●10~●14
+* 本家未过关2。Poputomo ID：632820141042，欢迎添加
+* PMS五期发狂九段，目前主打●10~●15 [旧难易度表过关情况@cinnamon_database](https://cinnamon.link/users/8dQtJY/score?table_id=3zqCme&legacy=0)
 
 #### 家用机音游
 <div class="table-wrapper">

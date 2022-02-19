@@ -9,9 +9,8 @@ order: 1
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
 #### <font color="red">ポップン/発狂PMS</font>
-* 未クリア2 全埋め頑張る
-* ポプともID：632820141042 登録はお気軽に
-* PMS五期発狂八段、●10~●14を中心にプレイしている
+* 未クリア2 全埋め頑張る。ポプともID：632820141042 登録はお気軽に
+* PMS五期発狂九段、●10~●15を中心にプレイしている [ランプ状況@cinnamon_database](https://cinnamon.link/users/8dQtJY/score?table_id=3zqCme&legacy=0)
 
 #### 家庭用音ゲー
 
