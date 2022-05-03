@@ -68,8 +68,8 @@ sidebar: false
 </table>
 </div>
 
-#### 格斗游戏
-* MBTL 琥珀使。最高 A+rank。本作目标是脱新。2000战左右
+#### <font color="red">格斗游戏</font>
+* MBTL 琥珀使。最高 S rank。本作目标是脱新。5000战左右
 * BBTAG Ruby&Weiss使（这对快点结婚！）。1300战左右
 * BBCF Celica使。100战未满。谁都打不过- -
 
