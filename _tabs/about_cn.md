@@ -14,6 +14,10 @@ sidebar: false
 * 本家未过关2。Poputomo ID：632820141042，欢迎添加
 * PMS五期发狂九段，目前主打●10~●15 [旧难易度表过关情况@cinnamon_database](https://cinnamon.link/users/8dQtJY/score?table_id=3zqCme&legacy=0)
 
+#### <font color="red">格斗游戏</font>
+* MBTL 琥珀使。最高 EX rank。8000战左右
+
+
 #### 家用机音游
 <div class="table-wrapper">
 <table id="skill_table" class="skill_table_hide">
@@ -67,11 +71,6 @@ sidebar: false
   </tbody>
 </table>
 </div>
-
-#### <font color="red">格斗游戏</font>
-* MBTL 琥珀使。最高 S rank。本作目标是脱新。5000战左右
-* BBTAG Ruby&Weiss使（这对快点结婚！）。1300战左右
-* BBCF Celica使。100战未满。谁都打不过- -
 
 #### STG
 * 主要以过关为目标

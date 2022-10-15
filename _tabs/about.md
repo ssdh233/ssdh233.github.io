@@ -12,6 +12,9 @@ order: 1
 * 未クリア2 全埋め頑張る。ポプともID：632820141042 登録はお気軽に
 * PMS五期発狂九段、●10~●15を中心にプレイしている [ランプ状況@cinnamon_database](https://cinnamon.link/users/8dQtJY/score?table_id=3zqCme&legacy=0)
 
+####  <font color="red">格ゲー</font>
+* MBTL 琥珀使い。最高EXランク。8000戦くらい
+
 #### 家庭用音ゲー
 
 <div class="table-wrapper">
@@ -66,11 +69,6 @@ order: 1
   </tbody>
 </table>
 </div>
-
-####  <font color="red">格ゲー</font>
-* MBTL 琥珀使い。最高Sランク。初心者脱出目指す。5000戦くらい
-* BBCF セリカかわいい。誰にも勝てない。
-* BBTAG ルビー&ワイス早く結婚して 1300戦
 
 #### シューティング
 * 基本はヘタレなクリアラーです
