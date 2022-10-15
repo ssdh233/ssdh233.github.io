@@ -12,7 +12,7 @@ sidebar: false
 
 #### <font color="red">pop'n music/发狂PMS</font>
 * 本家未过关2。Poputomo ID：632820141042，欢迎添加
-* PMS五期发狂九段，目前主打●10~●15 [旧难易度表过关情况@cinnamon_database](https://cinnamon.link/users/8dQtJY/score?table_id=3zqCme&legacy=0)
+* PMS五期发狂九段，目前主打●10~●15 [旧难易度表过关情况@cinnamon_database](https://cinnamon.link/users/xedcnp/score?table_id=dgm0s5&legacy=0&player=beatoraja%20&graph_type=lamp)
 
 #### <font color="red">格斗游戏</font>
 * MBTL 琥珀使。最高 EX rank。8000战左右
