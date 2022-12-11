@@ -11,11 +11,12 @@ sidebar: false
 这里是松松(a.k.a. 松松打虎, ssdh233）。大部分时间都在玩游戏，偶尔写点代码，学点外语。
 
 #### <font color="red">pop'n music/发狂PMS</font>
-* 本家未过关2。Poputomo ID：632820141042，欢迎添加
+* 本家EX全埋。Poputomo ID：632820141042，欢迎添加
 * PMS五期发狂九段，目前主打●10~●15 [旧难易度表过关情况@cinnamon_database](https://cinnamon.link/users/xedcnp/score?table_id=dgm0s5&legacy=0&player=beatoraja%20&graph_type=lamp)
 
 #### <font color="red">格斗游戏</font>
 * MBTL 琥珀使。最高 EX rank。8000战左右
+* SFV 露西亚使。目前白金，700战左右
 
 
 #### 家用机音游

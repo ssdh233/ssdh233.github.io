@@ -9,11 +9,12 @@ order: 1
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
 #### <font color="red">ポップン/発狂PMS</font>
-* 未クリア2 全埋め頑張る。ポプともID：632820141042 登録はお気軽に
+* EX全埋め。ポプともID：632820141042 登録はお気軽に
 * PMS五期発狂九段、●10~●15を中心にプレイしている [ランプ状況@cinnamon_database](https://cinnamon.link/users/xedcnp/score?table_id=dgm0s5&legacy=0&player=beatoraja%20&graph_type=lamp)
 
 ####  <font color="red">格ゲー</font>
-* MBTL 琥珀使い。最高EXランク。8000戦くらい
+* MBTL 琥珀使い。最高EXランク。8000戦ぐらい
+* SFV ルシア使い。今発展途上のプラチナ。700戦ぐらい
 
 #### 家庭用音ゲー
 
