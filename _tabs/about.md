@@ -45,7 +45,7 @@ order: 1
     </tr>
     <tr>
       <td>project diva</td>
-      <td>FT: ★9 フルコン3 ★9.5フルコン1 ★10フルコンまだない <a href="https://www.bilibili.com/video/BV1u54y1p77f">動画</a><br>2,2.5,F：未フルコン1：激唱</td>
+      <td>FT: ★9 フルコン3 ★9.5フルコン1 ★10フルコンまだない<a href="https://www.bilibili.com/video/BV1RW411k7VZ">動画1</a> <a href="https://www.bilibili.com/video/BV1u54y1p77f">動画2</a><br>2,2.5,F：未フルコン1：激唱</td>
     </tr>
     <tr>
       <td>DEEMO -Reborn-</td>
@@ -87,16 +87,10 @@ order: 1
 * スコアタ
   * 2016.11.24 ウィンディア Ex-off [3.20億](https://www.bilibili.com/video/BV1uQ4y1m7Bh)
 
-#### diva FT
-* アケコンでやってる [動画1](https://www.bilibili.com/video/BV1RW411k7VZ) [動画2](https://www.bilibili.com/video/BV1u54y1p77f)
-
 #### ぷよテト
 * テトリスメイン
 * ぷよテトS 40ライン1:09 レート12000台 
 * ぷよテト2 40ライン[1:11.96](https://www.bilibili.com/video/BV1sy4y1L7Dr) ウルトラ[4万ちょい](https://www.bilibili.com/video/BV1pv411J7W5) レート1400（パズル）/1500（テト）くらい
-
-#### djmax repsect
-* 8BのS埋め頑張ってます
 
 #### 太鼓の達人
 * ACおに全良12譜面（★10 1譜面）

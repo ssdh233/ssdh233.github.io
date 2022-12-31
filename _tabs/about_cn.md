@@ -47,7 +47,7 @@ sidebar: false
     </tr>
     <tr>
       <td>project diva</td>
-      <td>FT: ★9 全连3 ★9.5全连1 ★10全连努力中… <a href="https://www.bilibili.com/video/BV1u54y1p77f">最新视频</a><br>2,2.5,F：未全连1首：激唱</td>
+      <td>FT: ★9 全连3 ★9.5全连1 ★10全连努力中… <a href="https://www.bilibili.com/video/BV1RW411k7VZ">视频1</a><a href="https://www.bilibili.com/video/BV1u54y1p77f">视频2</a><br>2,2.5,F：未全连1首：激唱</td>
     </tr>
     <tr>
       <td>DEEMO -Reborn-</td>
