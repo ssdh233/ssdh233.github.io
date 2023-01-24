@@ -3,7 +3,7 @@ layout: post
 title: "微软收购动视暴雪 / 太鼓达人Xbox Game Pass版"
 date: 2022-01-19
 category: 中文
-tags: [NEWS,太鼓,wow]
+tags: [NEWS,太鼓,WOW]
 ---
 
 https://www.nytimes.com/2022/01/18/business/microsoft-activision-blizzard.html
