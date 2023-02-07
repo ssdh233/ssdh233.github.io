@@ -126,7 +126,8 @@ order: 1
 * Fate/stay night
 * 月姫R
 * 逆転裁判1/6
-* CLANNAD（進行中）
+* CLANNAD
+* 魔法使いの夜
 * ソルフェージュ（進行中）
 
 #### 語学ゲーム（英語）
