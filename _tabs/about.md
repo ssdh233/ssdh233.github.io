@@ -13,8 +13,8 @@ order: 1
 * PMS五期発狂九段、●10~●15を中心にプレイしている [ランプ状況@cinnamon_database](https://cinnamon.link/users/xedcnp/score?table_id=dgm0s5&legacy=0&player=beatoraja%20&graph_type=lamp)
 
 ####  <font color="red">格ゲー</font>
-* MBTL 琥珀使い。最高EXランク。8000戦ぐらい
-* SFV ルシア使い。今発展途上のプラチナ。700戦ぐらい
+* MBTL 琥珀使い。最高EX4。8000戦ぐらい
+* SFV ルシア使い。ダイヤ。2500戦ぐらい
 
 #### 家庭用音ゲー
 
@@ -102,7 +102,7 @@ order: 1
 
 #### 麻雀
 * 天鳳特南六段
-* 今までの段位遷移：4545456
+* 雀魂雀聖1
 
 #### WOW
 * 引退しました
