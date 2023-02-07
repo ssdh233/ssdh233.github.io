@@ -16,7 +16,7 @@ sidebar: false
 
 #### <font color="red">格斗游戏</font>
 * MBTL 琥珀使。最高 EX rank。8000战左右
-* SFV 露西亚使。目前白金，700战左右
+* SFV 露西亚使。钻石。2500战左右
 
 
 #### 家用机音游
@@ -100,6 +100,7 @@ sidebar: false
 
 #### 麻将
 * 天凤特南六段
+* 雀魂雀圣1
 
 #### WOW
 * 已AFK
@@ -123,7 +124,8 @@ sidebar: false
 * Fate/stay night
 * 月姬R
 * 逆转裁判1/6
-* CLANNAD（进行中）
+* CLANNAD
+* 魔法使之夜
 * 百合二重奏（进行中）
 
 #### 英语学习软件
