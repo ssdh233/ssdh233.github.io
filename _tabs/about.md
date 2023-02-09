@@ -29,7 +29,7 @@ order: 1
   <tbody>
     <tr>
       <td>太鼓の達人</td>
-      <td>PS4: 全良26譜面；未フル8（<a href="https://www.bilibili.com/video/BV17t411u7Rb">消失裏</a>，≠MM，まださいたま2000普通譜面フルコン）；★10 120万13/60 （2019年8月まで）<br><font style="color:green">NS1：全良15譜面；★10 フルコン11/15 120万3/15（購入していないDLCは含まれていない）</font><br>その他：全良たくさん，200くらい？；PSP2，PSPDX，WIIU1，3DS1全曲フルコン；未フルはだいたいPS4と同じ、あとドンカマ</td>
+      <td><font style="color:green">Xbox/PC:全良42/100譜面</font><br/>PS4: 全良26譜面；未フル8（<a href="https://www.bilibili.com/video/BV17t411u7Rb">消失裏<</a>，≠MM，まださいたま2000普通譜面フルコン）；★10 120万13/60 （2019年8月まで）<br><font style="color:green">CS総計全良273谱面</font></td>
     </tr>
     <tr>
       <td>djmax</td>
@@ -57,7 +57,7 @@ order: 1
     </tr>
     <tr>
       <td>アイドルマスター: shiny TV</td>
-      <td>まだやっていない。やりたいけど</td>
+      <td>MASTER全フルコン。☆10パフェ 2/6</td>
     </tr>
     <tr>
       <td>けいおん!放課後ライブ!!</td>

@@ -31,7 +31,7 @@ sidebar: false
   <tbody>
     <tr>
       <td>太鼓</td>
-      <td>PS4: 全良26谱面；未全连8（<a href="https://www.bilibili.com/video/BV17t411u7Rb">里消失</a>，≠MM，又埼玉普通谱面全连）；★10 120万13/60 （统计截止至2019年8月）<br><font style="color:green">NS1：全良15谱面；★10 全连11/15 120万3/15（不统计没买的DLC）</font><br>其余家用作：全良很多谱面，应该有200~300；PSP2，PSPDX，WIIU1，3DS1全曲全连；未全连基本和PS4一致，再加上咚咔码</td>
+      <td><font style="color:green">Xbox/PC:全良42/100谱面</font><br/>PS4: 全良26谱面；未全连8（<a href="https://www.bilibili.com/video/BV17t411u7Rb">里消失</a>，≠MM，又埼玉普通谱面全连）；★10 120万13/60 （统计截止至2019年8月）<br><font style="color:green">家用作总计全良273谱面</font></td>
     </tr>
     <tr>
       <td>djmax</td>
@@ -59,7 +59,7 @@ sidebar: false
     </tr>
     <tr>
       <td>偶像大师: shiny TV</td>
-      <td>刚买了一个曲包，还没怎么打…</td>
+      <td>MASTER全FC。☆10 perfect 2/6</td>
     </tr>
     <tr>
       <td>轻音少女:放学后演唱会</td>
