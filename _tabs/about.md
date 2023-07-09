@@ -8,13 +8,20 @@ order: 1
 
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
+#### <font color="red">太鼓の達人</font>
+* 2023十段に向かって頑張っています
+* ACおに全良15譜面（★10 1譜面）
+* 家庭用もよくやります
+
 #### <font color="red">ポップン/発狂PMS</font>
 * EX全埋め。ポプともID：632820141042 登録はお気軽に
 * PMS五期発狂九段、●10~●15を中心にプレイしている [ランプ状況@cinnamon_database](https://cinnamon.link/users/xedcnp/score?table_id=dgm0s5&legacy=0&player=beatoraja%20&graph_type=lamp)
+* 最近はスコア狙い始めました
 
-####  <font color="red">格ゲー</font>
-* MBTL 琥珀使い。最高EX4。8000戦ぐらい
-* SFV ルシア使い。ダイヤ。2500戦ぐらい
+#### 格ゲー
+* SF6 ケン使い。ダイヤ。1000戦
+* MBTL 琥珀使い。最高EX2/RP190万。12000戦
+* SFV ルシア使い。ダイヤ。2500戦
 
 #### 家庭用音ゲー
 
@@ -92,10 +99,6 @@ order: 1
 * ぷよテトS 40ライン1:09 レート12000台 
 * ぷよテト2 40ライン[1:11.96](https://www.bilibili.com/video/BV1sy4y1L7Dr) ウルトラ[4万ちょい](https://www.bilibili.com/video/BV1pv411J7W5) レート1400（パズル）/1500（テト）くらい
 
-#### 太鼓の達人
-* ACおに全良12譜面（★10 1譜面）
-* 家庭用もよくやります
-
 #### ギタドラ
 * ドラム 最高銅ネ 最近やってない
 * ギター 最高赤ネ 最近やってない
@@ -133,3 +136,5 @@ order: 1
 #### 語学ゲーム（英語）
 * Life Is Strange 日本語バージョンもあるので皆さんもやってみよう！
 * Diablo 2: Resurrected 語学の価値ほぼない
+* Witch on the Holy Night（進行中）
+
