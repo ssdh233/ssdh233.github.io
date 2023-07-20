@@ -8,15 +8,15 @@ order: 1
 
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
-#### <font color="red">太鼓の達人</font>
-* 2023十段に向かって頑張っています
-* ACおに全良15譜面（★10 1譜面）
-* 家庭用もよくやります
-
 #### <font color="red">ポップン/発狂PMS</font>
 * EX全埋め。ポプともID：632820141042 登録はお気軽に
 * PMS五期発狂九段、●10~●15を中心にプレイしている [ランプ状況@cinnamon_database](https://cinnamon.link/users/xedcnp/score?table_id=dgm0s5&legacy=0&player=beatoraja%20&graph_type=lamp)
 * 最近はスコア狙い始めました
+
+#### 太鼓の達人
+* 2023十段 [動画](https://www.bilibili.com/video/BV1zV411K7om/?spm_id_from=333.999.list.card_archive.click)
+* ACおに全良19譜面（★10 1譜面）
+* 家庭用もよくやります
 
 #### 格ゲー
 * SF6 ケン使い。ダイヤ。1000戦
