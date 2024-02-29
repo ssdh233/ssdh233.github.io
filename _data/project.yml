@@ -15,3 +15,7 @@ projects:
     url: "http://ssdh233.me/mtc/"
     github: "https://github.com/ssdh233/mtc"
     description: 麻雀牌を表示するhtmlを自動的に生成する便利なツールです。
+  - title: ポップンスコアツール
+    url: "https://ssdh233.me/popn-score-tool/"
+    github: "https://github.com/ssdh233/popn-score-tool"
+    description: ケルパニさんのオリジナルから改造したポップンのスコアツール。
