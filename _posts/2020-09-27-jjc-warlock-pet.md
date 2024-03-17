@@ -3,7 +3,7 @@ layout: post
 title: "[镜像] [pvp] 竞技场中毁灭术士的宠物操作"
 date: 2020-09-27
 category: 中文
-tags: [wow]
+tags: [WOW]
 ---
 
 本文首发于[NGA](https://ngabbs.com/read.php?&tid=23497811)。
