@@ -36,15 +36,15 @@ order: 1
   <tbody>
     <tr>
       <td>太鼓の達人</td>
-      <td><font style="color:green">Xbox/PC:全良42/100譜面</font><br/>PS4: 全良26譜面；未フル8（<a href="https://www.bilibili.com/video/BV17t411u7Rb">消失裏<</a>，≠MM，まださいたま2000普通譜面フルコン）；★10 120万13/60 （2019年8月まで）<br><font style="color:green">CS総計全良273谱面</font></td>
+      <td>Xbox/PC:全良42/100譜面<br/>PS4: 全良26譜面；未フル8（<a href="https://www.bilibili.com/video/BV17t411u7Rb">消失裏<</a>，≠MM，まださいたま2000普通譜面フルコン）；★10 120万13/60 （2019年8月まで）<br>CS総計全良273谱面</td>
     </tr>
     <tr>
       <td>djmax</td>
-      <td>PS4オンリー<br><font style="color:green">4B15全S, 99%FC 2/10</font><br>6B15未S2譜面(We're All Gonna Die, Nightmare)<br>8B未S19譜面</td>
+      <td>PS4オンリー<br>4B15全S, 99%FC 2/10<br>6B15未S2譜面(We're All Gonna Die, Nightmare)<br>8B未S19譜面</td>
     </tr>
     <tr>
       <td>ez2on</td>
-      <td><font style="color:green">アナコン4B最高S16(1曲) <a href="https://docs.google.com/spreadsheets/d/1aQI3IRFGZcZ9afgbxY730PBUYqvpclEDIA9EbcuRxis/edit#gid=604526569">詳細</a></font><br>アナコン6B最高S15(1曲)</td>
+      <td><font color="green">アナコン６B rate 17</font><br>アナコン4B最高S16(1曲) <a href="https://docs.google.com/spreadsheets/d/1aQI3IRFGZcZ9afgbxY730PBUYqvpclEDIA9EbcuRxis/edit#gid=604526569">詳細</a></td>
     </tr>
     <tr>
       <td>pop’n music</td>

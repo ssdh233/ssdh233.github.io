@@ -37,15 +37,15 @@ sidebar: false
   <tbody>
     <tr>
       <td>太鼓</td>
-      <td><font style="color:green">Xbox/PC:全良42/100谱面</font><br/>PS4: 全良26谱面；未全连8（<a href="https://www.bilibili.com/video/BV17t411u7Rb">里消失</a>，≠MM，又埼玉普通谱面全连）；★10 120万13/60 （统计截止至2019年8月）<br><font style="color:green">家用作总计全良273谱面</font></td>
+      <td>Xbox/PC:全良42/100谱面<br/>PS4: 全良26谱面；未全连8（<a href="https://www.bilibili.com/video/BV17t411u7Rb">里消失</a>，≠MM，又埼玉普通谱面全连）；★10 120万13/60 （统计截止至2019年8月）<br>家用作总计全良273谱面</td>
     </tr>
     <tr>
       <td>djmax</td>
-      <td>目前只玩PS4。<br><font style="color:green">4B15全S, 99%FC 2/10</font><br>6B15未S2谱面(We're All Gonna Die, Nightmare)<br>8B未S19谱面</td>
+      <td>目前只玩PS4。<br>4B15全S, 99%FC 2/10<br>6B15未S2谱面(We're All Gonna Die, Nightmare)<br>8B未S19谱面</td>
     </tr>
     <tr>
       <td>ez2on</td>
-      <td><font style="color:green">手柄4B最高S16级1曲 <a href="https://docs.google.com/spreadsheets/d/1aQI3IRFGZcZ9afgbxY730PBUYqvpclEDIA9EbcuRxis/edit#gid=604526569">详细</a></font><br>手柄6B最高S15级1曲<br>键盘未启动中。。。</td>
+      <td><font color="green">手柄6B全固定键位 rate 17</font><br/>手柄4B最高S16级1曲<a href="https://docs.google.com/spreadsheets/d/1aQI3IRFGZcZ9afgbxY730PBUYqvpclEDIA9EbcuRxis/edit#gid=604526569">详细</a></td>
     </tr>
     <tr>
       <td>pop’n music</td>
