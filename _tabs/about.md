@@ -130,6 +130,7 @@ order: 1
 * 月姫R
 * 逆転裁判1/6
 * CLANNAD
+* Summer Pockets
 * 魔法使いの夜
 * ソルフェージュ（進行中）
 

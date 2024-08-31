@@ -131,6 +131,7 @@ sidebar: false
 * 月姬R
 * 逆转裁判1/6
 * CLANNAD
+* Summer Pockets
 * 魔法使之夜
 * 百合二重奏（进行中）
 
