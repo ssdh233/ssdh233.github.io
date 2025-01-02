@@ -10,18 +10,16 @@ order: 1
 
 #### <font color="red">ポップン/発狂PMS</font>
 * EX全埋め。ポプともID：632820141042 登録はお気軽に
-* PMS五期発狂九段、●10~●15を中心にプレイしている [ランプ状況@cinnamon_database](https://cinnamon.link/users/xedcnp/score?table_id=dgm0s5&legacy=0&player=beatoraja%20&graph_type=lamp)
-* 最近はスコア狙い始めました
+* PMS発狂十段、●10~●15を中心に
+* [最近はスコア狙い始めました](https://ssdh233.me/blog/2024/11/27/popn2-1.html)
+
+#### 麻雀
+* 天鳳特南六段
+* 雀魂雀聖1
 
 #### 太鼓の達人
 * 2023十段 [動画](https://www.bilibili.com/video/BV1zV411K7om/?spm_id_from=333.999.list.card_archive.click)
-* ACおに全良19譜面（★10 1譜面）
 * 家庭用もよくやります
-
-#### 格ゲー
-* SF6 ケン使い。ダイヤ。1000戦
-* MBTL 琥珀使い。最高EX2/RP190万。12000戦
-* SFV ルシア使い。ダイヤ。2500戦
 
 #### 家庭用音ゲー
 
@@ -78,6 +76,11 @@ order: 1
 </table>
 </div>
 
+#### 格ゲー
+* SF6 ケン使い。ダイヤ。1000戦
+* MBTL 琥珀使い。最高EX2/RP190万。12000戦
+* SFV ルシア使い。ダイヤ。2500戦
+
 #### シューティング
 * 基本はヘタレなクリアラーです
 * クリアリスト
@@ -95,29 +98,22 @@ order: 1
 * スコアタ
   * 2016.11.24 ウィンディア Ex-off [3.20億](https://www.bilibili.com/video/BV1uQ4y1m7Bh)
 
-#### ぷよテト
-* テトリスメイン
-* ぷよテトS 40ライン1:09 レート12000台 
-* ぷよテト2 40ライン[1:11.96](https://www.bilibili.com/video/BV1sy4y1L7Dr) ウルトラ[4万ちょい](https://www.bilibili.com/video/BV1pv411J7W5) レート1400（パズル）/1500（テト）くらい
-
 #### ギタドラ
-* ドラム 最高銅ネ 最近やってない
+* ドラム 最高銀ネ [galaxywave](https://gsv.fun/ja/galaxywave/993/d)
 * ギター 最高赤ネ 最近やってない
 
-#### 麻雀
-* 天鳳特南六段
-* 雀魂雀聖1
-
-#### WOW
-* 引退しました
+#### WOW(引退)
 * Alge#11734 アリーナ勢 基本はHorde
-* <font color="#8787ED">Warlock: <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algetest">Algetest</a>, <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algezest">Algezest</a>, <a href="https://worldofwarcraft.com/en-us/character/us/proudmoore/algenest">Algenest</a></font>
-  * bfa s3: 2s 2400, 3s 2100
-  * bfa s4: 2s 2500, 3s Glad x3 最高2800
-  * sl s1: destro Glad, aff 最高2300
-* <font color="#40C7EB">Mage: <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algepest">Algepest</a></font>
-  * bfa s4: 2s 2200, 3s 2400
-  * sl s1: Glad
+  * <font color="#8787ED">Warlock: <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algetest">Algetest</a>, <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algezest">Algezest</a>, <a href="https://worldofwarcraft.com/en-us/character/us/proudmoore/algenest">Algenest</a></font>
+    * bfa s3: 2s 2400, 3s 2100
+    * bfa s4: 2s 2500, 3s Glad x3 最高2800
+    * sl s1: destro Glad, aff 最高2300
+  * <font color="#40C7EB">Mage: <a href="https://worldofwarcraft.com/en-us/character/us/blackrock/algepest">Algepest</a></font>
+    * bfa s4: 2s 2200, 3s 2400
+    * sl s1: Glad
+* WotLK classicで25HLK、0buffでクリアしました [動画](https://www.bilibili.com/video/BV1UN4y1U7yf/)
+  * [parseも少し頑張ってました](https://classic.warcraftlogs.com/character/us/arugal/algepaiguu?zone=1020)
+
 
 #### 語学ゲーム（日本語）
 * 軌跡シリーズ 空fc/空sc/空3rd/零/碧/閃/閃II/閃III/閃IV
