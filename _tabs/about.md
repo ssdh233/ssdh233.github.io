@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-日本語 / [中文](/about_cn)
+日本語
 
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
@@ -91,6 +91,7 @@ order: 1
   * 東方紺珠伝L 早苗
   * 東方天空璋L [霊夢冬（季節開放封印）](https://www.bilibili.com/video/BV1AW411g745) 
   * 東方虹龍洞L [霊夢（手動ボム封印）](https://www.bilibili.com/video/BV1Bq4y1j7Q5) 早苗 
+  * 東方妖々夢LNB [咲夜A](https://www.bilibili.com/video/BV1ax4y1m7BV)
 * スコアタ
   * 2016.11.24 ウィンディア Ex-off [3.20億](https://www.bilibili.com/video/BV1uQ4y1m7Bh)
 
