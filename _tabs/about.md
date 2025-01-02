@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-日本語
-
 ゲームと語学が好きな中国人です。たまにソースコードも書きます。
 
 #### <font color="red">ポップン/発狂PMS</font>
