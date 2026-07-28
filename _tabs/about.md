@@ -9,11 +9,32 @@ order: 1
 #### <font color="red">ポップン/発狂PMS</font>
 * EX全埋め。ポプともID：632820141042 登録はお気軽に
 * PMS発狂十段、●10~●15を中心に
-* [最近はスコア狙い始めました](https://ssdh233.me/blog/2024/11/27/popn2-1.html)
 
 #### 麻雀
-* 天鳳特南六段
+* 天鳳特南七段
 * 雀魂雀聖1
+
+#### 格ゲー
+* SF6 イングリッド使い。マスター
+* MBTL 琥珀使い。最高EX2/RP190万。12000戦
+* SFV ルシア使い。ダイヤ。2500戦
+
+#### シューティング
+* 基本はヘタレなクリアラーです
+* クリアリスト
+  * 怒首領蜂 大復活 裏二周目 Bスト
+  * 虫姫さま ふたり マニアック レコ・ノーマル
+  * デススマイルズ [ウィンディア（LV3縛り・EXあり）](https://www.bilibili.com/video/BV18h411i7UE)
+  * 怒首領蜂 最大往生 [A-S（陽蜂なし・オートボムON）](https://www.bilibili.com/video/BV1iA411w7zG)
+  * エスプガルーダII [アゲハ](https://www.bilibili.com/video/BV1564y197GP) [アサギ（真セセリあり）](https://www.bilibili.com/video/BV1Q44y1t7Xy/)
+  * 怒首領蜂 大復活　ブラックラーベル [Bボム（ヒバチあり）](https://www.bilibili.com/video/BV1wq4y1r7V2)
+  * 東方永夜抄L 結界組
+  * 東方紺珠伝L 早苗
+  * 東方天空璋L [霊夢冬（季節開放封印）](https://www.bilibili.com/video/BV1AW411g745) 
+  * 東方虹龍洞L [霊夢（手動ボム封印）](https://www.bilibili.com/video/BV1Bq4y1j7Q5) 早苗 
+  * 東方妖々夢LNB [咲夜A](https://www.bilibili.com/video/BV1ax4y1m7BV)
+* スコアタ
+  * 2016.11.24 ウィンディア Ex-off [3.20億](https://www.bilibili.com/video/BV1uQ4y1m7Bh)
 
 #### 太鼓の達人
 * 2023十段 [動画](https://www.bilibili.com/video/BV1zV411K7om/?spm_id_from=333.999.list.card_archive.click)
@@ -73,28 +94,6 @@ order: 1
   </tbody>
 </table>
 </div>
-
-#### 格ゲー
-* SF6 ケン使い。ダイヤ。1000戦
-* MBTL 琥珀使い。最高EX2/RP190万。12000戦
-* SFV ルシア使い。ダイヤ。2500戦
-
-#### シューティング
-* 基本はヘタレなクリアラーです
-* クリアリスト
-  * 怒首領蜂 大復活 裏二周目 Bスト
-  * 虫姫さま ふたり マニアック レコ・ノーマル
-  * デススマイルズ [ウィンディア（LV3縛り・EXあり）](https://www.bilibili.com/video/BV18h411i7UE)
-  * 怒首領蜂 最大往生 [A-S（陽蜂なし・オートボムON）](https://www.bilibili.com/video/BV1iA411w7zG)
-  * エスプガルーダII [アゲハ](https://www.bilibili.com/video/BV1564y197GP) [アサギ（真セセリあり）](https://www.bilibili.com/video/BV1Q44y1t7Xy/)
-  * 怒首領蜂 大復活　ブラックラーベル [Bボム（ヒバチあり）](https://www.bilibili.com/video/BV1wq4y1r7V2)
-  * 東方永夜抄L 結界組
-  * 東方紺珠伝L 早苗
-  * 東方天空璋L [霊夢冬（季節開放封印）](https://www.bilibili.com/video/BV1AW411g745) 
-  * 東方虹龍洞L [霊夢（手動ボム封印）](https://www.bilibili.com/video/BV1Bq4y1j7Q5) 早苗 
-  * 東方妖々夢LNB [咲夜A](https://www.bilibili.com/video/BV1ax4y1m7BV)
-* スコアタ
-  * 2016.11.24 ウィンディア Ex-off [3.20億](https://www.bilibili.com/video/BV1uQ4y1m7Bh)
 
 #### ギタドラ
 * ドラム 最高銀ネ [galaxywave](https://gsv.fun/ja/galaxywave/993/d)
